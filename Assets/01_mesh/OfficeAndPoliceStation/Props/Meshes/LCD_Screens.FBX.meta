@@ -1,0 +1,140 @@
+fileFormatVersion: 2
+guid: 5814599c376cff94289dcb2e05002633
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Laptop_2
+    100004: Lcd_Scree
+    100006: LCD_Screen_1
+    100008: LCD_Screen_2
+    100010: LCD_ScreenSOLO_2
+    100012: LCD_ScreenSOLO_3
+    100014: LCD_ScreenSOLO_1
+    100016: Laptop_1
+    400000: //RootNode
+    400002: Laptop_2
+    400004: Lcd_Scree
+    400006: LCD_Screen_1
+    400008: LCD_Screen_2
+    400010: LCD_ScreenSOLO_2
+    400012: LCD_ScreenSOLO_3
+    400014: LCD_ScreenSOLO_1
+    400016: Laptop_1
+    2300000: //RootNode
+    2300002: Laptop_2
+    2300004: Lcd_Scree
+    2300006: LCD_Screen_1
+    2300008: LCD_Screen_2
+    2300010: LCD_ScreenSOLO_2
+    2300012: LCD_ScreenSOLO_3
+    2300014: LCD_ScreenSOLO_1
+    2300016: Laptop_1
+    3300000: //RootNode
+    3300002: Laptop_2
+    3300004: Lcd_Scree
+    3300006: LCD_Screen_1
+    3300008: LCD_Screen_2
+    3300010: LCD_ScreenSOLO_2
+    3300012: LCD_ScreenSOLO_3
+    3300014: LCD_ScreenSOLO_1
+    3300016: Laptop_1
+    4300000: Lcd_Scree
+    4300002: LCD_Screen_1
+    4300004: LCD_Screen_2
+    4300006: Laptop_2
+    4300008: LCD_ScreenSOLO_2
+    4300010: LCD_ScreenSOLO_3
+    4300012: LCD_ScreenSOLO_1
+    4300014: Laptop_1
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LCD_Screens
+    second: {fileID: 2100000, guid: 6fbcea03b6a295141b3f86917c1720ed, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 32
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

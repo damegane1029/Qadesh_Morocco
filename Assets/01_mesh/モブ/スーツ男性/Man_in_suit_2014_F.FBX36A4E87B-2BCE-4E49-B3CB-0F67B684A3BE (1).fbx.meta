@@ -1,0 +1,427 @@
+fileFormatVersion: 2
+guid: c9740ef21fb385342bd820659cb37933
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Base HumanHeadGizmo
+    100002: Base HumanLCalfGizmo
+    100004: Base HumanLFootGizmo
+    100006: Base HumanLForearm1Gizmo
+    100008: Base HumanLPalmGizmo
+    100010: Base HumanLUpperarm1Gizmo
+    100012: Base HumanPelvisGizmo
+    100014: Base HumanRCalfGizmo
+    100016: Base HumanRFootGizmo
+    100018: Base HumanRForearm1Gizmo
+    100020: Base HumanRibcageGizmo
+    100022: Base HumanRPalmGizmo
+    100024: Base HumanRUpperarm1Gizmo
+    100026: char_man_
+    100028: char_man_baseBody
+    100030: char_man_BrowInnerL
+    100032: char_man_BrowInnerR
+    100034: char_man_BrowMiddleL
+    100036: char_man_BrowMiddleR
+    100038: char_man_BrowOuterL
+    100040: char_man_BrowOuterR
+    100042: char_man_ChawL
+    100044: char_man_ChawR
+    100046: char_man_Cheek_BoobleL
+    100048: char_man_Cheek_BoobleR
+    100050: char_man_CheekL
+    100052: char_man_CheekR
+    100054: char_man_Chin
+    100056: char_man_Head
+    100058: char_man_head_v1
+    100060: char_man_head_v3
+    100062: char_man_head_v4
+    100064: char_man_HeadBone01
+    100066: char_man_HeadBone02
+    100068: char_man_Jaw
+    100070: char_man_LCalf
+    100072: char_man_LCollarbone
+    100074: char_man_LDigit11
+    100076: char_man_LDigit12
+    100078: char_man_LDigit13
+    100080: char_man_LDigit21
+    100082: char_man_LDigit22
+    100084: char_man_LDigit23
+    100086: char_man_LDigit31
+    100088: char_man_LDigit32
+    100090: char_man_LDigit33
+    100092: char_man_LDigit41
+    100094: char_man_LDigit42
+    100096: char_man_LDigit43
+    100098: char_man_LDigit51
+    100100: char_man_LDigit52
+    100102: char_man_LDigit53
+    100104: char_man_LeftEye
+    100106: char_man_LFoot
+    100108: char_man_LForearm1
+    100110: char_man_LForearm2
+    100112: char_man_LIKTarget
+    100114: char_man_LipCornerL
+    100116: char_man_LipCornerR
+    100118: char_man_LipLowerL
+    100120: char_man_LipLowerR
+    100122: char_man_LipUpperL
+    100124: char_man_LipUpperR
+    100126: char_man_LowerLidL
+    100128: char_man_LowerLidR
+    100130: char_man_LPalm
+    100132: char_man_LPlatform
+    100134: char_man_LThigh
+    100136: char_man_LUpperarm1
+    100138: char_man_LUpperarm2
+    100140: char_man_Neck
+    100142: char_man_Nose
+    100144: char_man_NoseMiddleL
+    100146: char_man_NoseMiddleR
+    100148: char_man_NostrilsL
+    100150: char_man_NostrilsR
+    100152: char_man_Pelvis
+    100154: char_man_RCalf
+    100156: char_man_RCollarbone
+    100158: char_man_RDigit11
+    100160: char_man_RDigit12
+    100162: char_man_RDigit13
+    100164: char_man_RDigit21
+    100166: char_man_RDigit22
+    100168: char_man_RDigit23
+    100170: char_man_RDigit31
+    100172: char_man_RDigit32
+    100174: char_man_RDigit33
+    100176: char_man_RDigit41
+    100178: char_man_RDigit42
+    100180: char_man_RDigit43
+    100182: char_man_RDigit51
+    100184: char_man_RDigit52
+    100186: char_man_RDigit53
+    100188: char_man_RFoot
+    100190: char_man_RForearm1
+    100192: char_man_RForearm2
+    100194: char_man_Ribcage
+    100196: char_man_RightEye
+    100198: char_man_RIKTarget
+    100200: char_man_RPalm
+    100202: char_man_RPlatform
+    100204: char_man_RThigh
+    100206: char_man_RUpperarm1
+    100208: char_man_RUpperarm2
+    100210: char_man_Spine1
+    100212: char_man_Spine2
+    100214: char_man_Spine3
+    100216: char_man_UpperLidL
+    100218: char_man_UpperLidR
+    100220: ExposeTransform05
+    100222: ExposeTransform06
+    100224: ExposeTransform07
+    100226: gear_man_suit_mafia_v1
+    100228: LipCornerL_group
+    100230: LipCornerR_group
+    100232: LipLowerL_group
+    100234: LipLowerR_group
+    100236: LipUpperL_group
+    100238: LipUpperR_group
+    100240: man_hair_v5
+    100242: //RootNode
+    100244: NostrilsL_group
+    100246: NostrilsR_group
+    100248: Point033
+    100250: Point034
+    100252: Point035
+    100254: Point036
+    100256: Point037
+    100258: Point038
+    100260: Point039
+    100262: Point040
+    100264: Point041
+    100266: Point042
+    100268: Point043
+    100270: Point044
+    100272: Point045
+    100274: Point046
+    100276: Point047
+    100278: Point048
+    100280: Point049
+    100282: Point050
+    100284: Point051
+    100286: Point052
+    100288: Point053
+    100290: Point054
+    100292: Point055
+    100294: Point056
+    100296: Point057
+    100298: Point058
+    100300: Point059
+    100302: Point060
+    100304: Point061
+    100306: Point062
+    100308: Point063
+    100310: Point064
+    400000: Base HumanHeadGizmo
+    400002: Base HumanLCalfGizmo
+    400004: Base HumanLFootGizmo
+    400006: Base HumanLForearm1Gizmo
+    400008: Base HumanLPalmGizmo
+    400010: Base HumanLUpperarm1Gizmo
+    400012: Base HumanPelvisGizmo
+    400014: Base HumanRCalfGizmo
+    400016: Base HumanRFootGizmo
+    400018: Base HumanRForearm1Gizmo
+    400020: Base HumanRibcageGizmo
+    400022: Base HumanRPalmGizmo
+    400024: Base HumanRUpperarm1Gizmo
+    400026: char_man_
+    400028: char_man_baseBody
+    400030: char_man_BrowInnerL
+    400032: char_man_BrowInnerR
+    400034: char_man_BrowMiddleL
+    400036: char_man_BrowMiddleR
+    400038: char_man_BrowOuterL
+    400040: char_man_BrowOuterR
+    400042: char_man_ChawL
+    400044: char_man_ChawR
+    400046: char_man_Cheek_BoobleL
+    400048: char_man_Cheek_BoobleR
+    400050: char_man_CheekL
+    400052: char_man_CheekR
+    400054: char_man_Chin
+    400056: char_man_Head
+    400058: char_man_head_v1
+    400060: char_man_head_v3
+    400062: char_man_head_v4
+    400064: char_man_HeadBone01
+    400066: char_man_HeadBone02
+    400068: char_man_Jaw
+    400070: char_man_LCalf
+    400072: char_man_LCollarbone
+    400074: char_man_LDigit11
+    400076: char_man_LDigit12
+    400078: char_man_LDigit13
+    400080: char_man_LDigit21
+    400082: char_man_LDigit22
+    400084: char_man_LDigit23
+    400086: char_man_LDigit31
+    400088: char_man_LDigit32
+    400090: char_man_LDigit33
+    400092: char_man_LDigit41
+    400094: char_man_LDigit42
+    400096: char_man_LDigit43
+    400098: char_man_LDigit51
+    400100: char_man_LDigit52
+    400102: char_man_LDigit53
+    400104: char_man_LeftEye
+    400106: char_man_LFoot
+    400108: char_man_LForearm1
+    400110: char_man_LForearm2
+    400112: char_man_LIKTarget
+    400114: char_man_LipCornerL
+    400116: char_man_LipCornerR
+    400118: char_man_LipLowerL
+    400120: char_man_LipLowerR
+    400122: char_man_LipUpperL
+    400124: char_man_LipUpperR
+    400126: char_man_LowerLidL
+    400128: char_man_LowerLidR
+    400130: char_man_LPalm
+    400132: char_man_LPlatform
+    400134: char_man_LThigh
+    400136: char_man_LUpperarm1
+    400138: char_man_LUpperarm2
+    400140: char_man_Neck
+    400142: char_man_Nose
+    400144: char_man_NoseMiddleL
+    400146: char_man_NoseMiddleR
+    400148: char_man_NostrilsL
+    400150: char_man_NostrilsR
+    400152: char_man_Pelvis
+    400154: char_man_RCalf
+    400156: char_man_RCollarbone
+    400158: char_man_RDigit11
+    400160: char_man_RDigit12
+    400162: char_man_RDigit13
+    400164: char_man_RDigit21
+    400166: char_man_RDigit22
+    400168: char_man_RDigit23
+    400170: char_man_RDigit31
+    400172: char_man_RDigit32
+    400174: char_man_RDigit33
+    400176: char_man_RDigit41
+    400178: char_man_RDigit42
+    400180: char_man_RDigit43
+    400182: char_man_RDigit51
+    400184: char_man_RDigit52
+    400186: char_man_RDigit53
+    400188: char_man_RFoot
+    400190: char_man_RForearm1
+    400192: char_man_RForearm2
+    400194: char_man_Ribcage
+    400196: char_man_RightEye
+    400198: char_man_RIKTarget
+    400200: char_man_RPalm
+    400202: char_man_RPlatform
+    400204: char_man_RThigh
+    400206: char_man_RUpperarm1
+    400208: char_man_RUpperarm2
+    400210: char_man_Spine1
+    400212: char_man_Spine2
+    400214: char_man_Spine3
+    400216: char_man_UpperLidL
+    400218: char_man_UpperLidR
+    400220: ExposeTransform05
+    400222: ExposeTransform06
+    400224: ExposeTransform07
+    400226: gear_man_suit_mafia_v1
+    400228: LipCornerL_group
+    400230: LipCornerR_group
+    400232: LipLowerL_group
+    400234: LipLowerR_group
+    400236: LipUpperL_group
+    400238: LipUpperR_group
+    400240: man_hair_v5
+    400242: //RootNode
+    400244: NostrilsL_group
+    400246: NostrilsR_group
+    400248: Point033
+    400250: Point034
+    400252: Point035
+    400254: Point036
+    400256: Point037
+    400258: Point038
+    400260: Point039
+    400262: Point040
+    400264: Point041
+    400266: Point042
+    400268: Point043
+    400270: Point044
+    400272: Point045
+    400274: Point046
+    400276: Point047
+    400278: Point048
+    400280: Point049
+    400282: Point050
+    400284: Point051
+    400286: Point052
+    400288: Point053
+    400290: Point054
+    400292: Point055
+    400294: Point056
+    400296: Point057
+    400298: Point058
+    400300: Point059
+    400302: Point060
+    400304: Point061
+    400306: Point062
+    400308: Point063
+    400310: Point064
+    2100000: 'Material #724'
+    2100002: 'Material #4'
+    2100004: 14 - Default
+    2100006: 'Material #725'
+    2100008: 17 - Default
+    2100010: 05 - Default
+    2100012: 'Material #810'
+    2100014: 07 - Default
+    2300000: man_hair_v5
+    3300000: man_hair_v5
+    4300000: char_man_head_v4
+    4300002: char_man_head_v3
+    4300004: char_man_baseBody
+    4300006: char_man_head_v1
+    4300008: man_hair_v5
+    4300010: gear_man_suit_mafia_v1
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: char_man_baseBody
+    13700002: char_man_head_v1
+    13700004: char_man_head_v3
+    13700006: char_man_head_v4
+    13700008: gear_man_suit_mafia_v1
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.001
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

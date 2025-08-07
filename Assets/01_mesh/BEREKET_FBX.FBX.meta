@@ -1,0 +1,144 @@
+fileFormatVersion: 2
+guid: 4a9603bd824526344ac632e24d450585
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: bereket_geo01
+    100004: bereket_geo02
+    100006: bereket_geo03
+    100008: bereket_geo04
+    100010: bereket_geo05
+    100012: bereket_geo06
+    100014: bereket_geo07
+    100016: PhysCamera001
+    100018: PhysCamera001.Target
+    100020: PhysCamera002
+    100022: PhysCamera003
+    100024: VRayLight001
+    400000: //RootNode
+    400002: bereket_geo01
+    400004: bereket_geo02
+    400006: bereket_geo03
+    400008: bereket_geo04
+    400010: bereket_geo05
+    400012: bereket_geo06
+    400014: bereket_geo07
+    400016: PhysCamera001
+    400018: PhysCamera001.Target
+    400020: PhysCamera002
+    400022: PhysCamera003
+    400024: VRayLight001
+    2100000: yazi_mat
+    2100002: koyu_mat
+    2100004: gumus_mat
+    2100006: acik_mat
+    2300000: bereket_geo01
+    2300002: bereket_geo02
+    2300004: bereket_geo03
+    2300006: bereket_geo04
+    2300008: bereket_geo05
+    2300010: bereket_geo06
+    2300012: bereket_geo07
+    3300000: bereket_geo01
+    3300002: bereket_geo02
+    3300004: bereket_geo03
+    3300006: bereket_geo04
+    3300008: bereket_geo05
+    3300010: bereket_geo06
+    3300012: bereket_geo07
+    4300000: bereket_geo01
+    4300002: bereket_geo03
+    4300004: bereket_geo04
+    4300006: bereket_geo02
+    4300008: bereket_geo05
+    4300010: bereket_geo06
+    4300012: bereket_geo07
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

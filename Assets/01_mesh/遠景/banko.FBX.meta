@@ -1,0 +1,322 @@
+fileFormatVersion: 2
+guid: ed5a8269a52390d4889946fd9bc6a924
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: _________
+    100002: _________0
+    100004: //RootNode
+    100006: Box02
+    100008: Camera003
+    100010: Camera003.Target
+    100012: Camera004
+    100014: Camera004.Target
+    100016: Layer:1
+    100018: Layer:10
+    100020: Layer:11
+    100022: Layer:19
+    100024: Layer:2
+    100026: Layer:20
+    100028: Layer:22
+    100030: Layer:23
+    100032: Layer:24
+    100034: Layer:3
+    100036: Layer:31
+    100038: Layer:37
+    100040: Layer:4
+    100042: Layer:8
+    100044: Layer:9
+    100046: Layer:Layer1
+    100048: Layer:Layer1 1
+    100050: Layer:Layer2
+    100052: Layer:Layer3
+    100054: Layer:Layer3 1
+    100056: Layer:Layer4
+    100058: Layer:Layer5
+    100060: Layer:Layer6
+    100062: Obj_000009
+    100064: obj_036
+    100066: obj_039
+    100068: obj_041
+    100070: obj_047
+    100072: obj_058
+    100074: Omni001
+    100076: Omni002
+    100078: Omni003
+    100080: Shape001
+    100082: Shape128
+    100084: Shape176
+    100086: Shape30
+    100088: VRayLight002
+    100090: VRayLight003
+    100092: VRayLight004
+    100094: VRayLight005
+    100096: VRayLight006
+    100098: VRayLight007
+    100100: VRayLight008
+    100102: VRayLight009
+    100104: VRayLight011
+    100106: VRayLight012
+    100108: VRayLight014
+    100110: VRayLight015
+    100112: VRayLight016
+    100114: VRayLight017
+    100116: VRayLight018
+    400000: _________
+    400002: _________0
+    400004: //RootNode
+    400006: Box02
+    400008: Camera003
+    400010: Camera003.Target
+    400012: Camera004
+    400014: Camera004.Target
+    400016: Layer:1
+    400018: Layer:10
+    400020: Layer:11
+    400022: Layer:19
+    400024: Layer:2
+    400026: Layer:20
+    400028: Layer:22
+    400030: Layer:23
+    400032: Layer:24
+    400034: Layer:3
+    400036: Layer:31
+    400038: Layer:37
+    400040: Layer:4
+    400042: Layer:8
+    400044: Layer:9
+    400046: Layer:Layer1
+    400048: Layer:Layer1 1
+    400050: Layer:Layer2
+    400052: Layer:Layer3
+    400054: Layer:Layer3 1
+    400056: Layer:Layer4
+    400058: Layer:Layer5
+    400060: Layer:Layer6
+    400062: Obj_000009
+    400064: obj_036
+    400066: obj_039
+    400068: obj_041
+    400070: obj_047
+    400072: obj_058
+    400074: Omni001
+    400076: Omni002
+    400078: Omni003
+    400080: Shape001
+    400082: Shape128
+    400084: Shape176
+    400086: Shape30
+    400088: VRayLight002
+    400090: VRayLight003
+    400092: VRayLight004
+    400094: VRayLight005
+    400096: VRayLight006
+    400098: VRayLight007
+    400100: VRayLight008
+    400102: VRayLight009
+    400104: VRayLight011
+    400106: VRayLight012
+    400108: VRayLight014
+    400110: VRayLight015
+    400112: VRayLight016
+    400114: VRayLight017
+    400116: VRayLight018
+    2000000: Camera003
+    2000002: Camera004
+    2100000: Default
+    2100002: mat8
+    2100004: 01 - Default
+    2100006: "\xFCst kapak"
+    2100008: gerge
+    2100010: bsd
+    2100012: kulp
+    2100014: cam
+    2100016: metalsatin
+    2100018: cozzimex
+    2100020: esdf
+    2100022: 19 - Default
+    2300000: Layer:1
+    2300002: Layer:10
+    2300004: Layer:11
+    2300006: Layer:19
+    2300008: Layer:2
+    2300010: Layer:20
+    2300012: Layer:22
+    2300014: Layer:23
+    2300016: Layer:24
+    2300018: Layer:3
+    2300020: Layer:31
+    2300022: Layer:37
+    2300024: Layer:4
+    2300026: Layer:8
+    2300028: Layer:9
+    2300030: Layer:Layer1
+    2300032: Layer:Layer1 1
+    2300034: Layer:Layer3
+    2300036: Layer:Layer3 1
+    2300038: Layer:Layer4
+    2300040: Layer:Layer5
+    2300042: Layer:Layer6
+    2300044: Obj_000009
+    2300046: obj_036
+    2300048: obj_039
+    2300050: obj_041
+    2300052: obj_047
+    2300054: obj_058
+    2300056: Shape001
+    2300058: Shape128
+    2300060: Shape30
+    3300000: Layer:1
+    3300002: Layer:10
+    3300004: Layer:11
+    3300006: Layer:19
+    3300008: Layer:2
+    3300010: Layer:20
+    3300012: Layer:22
+    3300014: Layer:23
+    3300016: Layer:24
+    3300018: Layer:3
+    3300020: Layer:31
+    3300022: Layer:37
+    3300024: Layer:4
+    3300026: Layer:8
+    3300028: Layer:9
+    3300030: Layer:Layer1
+    3300032: Layer:Layer1 1
+    3300034: Layer:Layer3
+    3300036: Layer:Layer3 1
+    3300038: Layer:Layer4
+    3300040: Layer:Layer5
+    3300042: Layer:Layer6
+    3300044: Obj_000009
+    3300046: obj_036
+    3300048: obj_039
+    3300050: obj_041
+    3300052: obj_047
+    3300054: obj_058
+    3300056: Shape001
+    3300058: Shape128
+    3300060: Shape30
+    4300000: Shape128
+    4300002: Shape30
+    4300004: Obj_000009
+    4300006: Shape001
+    4300008: obj_058
+    4300010: obj_047
+    4300012: obj_041
+    4300014: obj_039
+    4300016: obj_036
+    4300018: Layer:1
+    4300020: Layer:31
+    4300022: Layer:2
+    4300024: Layer:3
+    4300026: Layer:4
+    4300028: Layer:9
+    4300030: Layer:10
+    4300032: Layer:11
+    4300034: Layer:19
+    4300036: Layer:37
+    4300038: Layer:Layer1
+    4300040: Layer:Layer3
+    4300042: Layer:Layer4
+    4300044: Layer:20
+    4300046: Layer:Layer1
+    4300048: Layer:Layer3
+    4300050: Layer:8
+    4300052: Layer:24
+    4300054: Layer:23
+    4300056: Layer:22
+    4300058: Layer:Layer6
+    4300060: Layer:Layer5
+    9500000: //RootNode
+    10800000: Omni001
+    10800002: Omni002
+    10800004: Omni003
+    6000828045688606266: Camera003
+    6000828045688606268: Camera004
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
