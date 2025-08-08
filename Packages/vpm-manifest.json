@@ -23,6 +23,12 @@
     },
     "jp.lilxyzw.editortoolbox": {
       "version": "1.9.0"
+    },
+    "com.mimylab.fukuroudon": {
+      "version": "3.8.1"
+    },
+    "com.cyan.cyantrigger": {
+      "version": "4.4.5"
     }
   },
   "locked": {
@@ -61,6 +67,18 @@
     "jp.lilxyzw.editortoolbox": {
       "version": "1.9.0",
       "dependencies": {}
+    },
+    "com.mimylab.fukuroudon": {
+      "version": "3.8.1",
+      "dependencies": {
+        "com.vrchat.worlds": "^3.8.2"
+      }
+    },
+    "com.cyan.cyantrigger": {
+      "version": "4.4.5",
+      "dependencies": {
+        "com.vrchat.worlds": "^3.1.x"
+      }
     }
   }
 }

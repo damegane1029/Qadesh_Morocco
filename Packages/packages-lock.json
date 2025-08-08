@@ -1,5 +1,17 @@
 {
   "dependencies": {
+    "com.cyan.cyantrigger": {
+      "version": "file:com.cyan.cyantrigger",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "com.mimylab.fukuroudon": {
+      "version": "file:com.mimylab.fukuroudon",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "com.unity.ai.navigation": {
       "version": "1.1.5",
       "depth": 1,
