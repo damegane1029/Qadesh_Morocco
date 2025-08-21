@@ -60,4 +60,4 @@ MonoBehaviour:
     valueLiteral: {r: 0.671, g: 0.184, b: 0.42, a: 1}
   directoryPath: {fileID: 102900000, guid: 7e2a6659f4df933408a3d847c351abd4, type: 3}
   lastMigratedDataVersion: 6
-  lastExampleVersionImported: 4.4.5
+  lastExampleVersionImported: 
