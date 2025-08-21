@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a31a3a978bd0448580d4ef9f3d6d95bf, type: 3}
   m_Name: GetPlayerTrackingPositionRotation
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: 9753b7765fe119042a214c246c07f6ed,
+  serializedUdonProgramAsset: {fileID: 11400000, guid: 10046df4fb0a9404884108a44b83e4fb,
     type: 2}
   udonAssembly: ".data_start\r\n  .export __CyanTrigger_ProgramName_SystemString\r\n 
     .export player\r\n  .export tracking\r\n  .export position\r\n  .export rotation\r\n 

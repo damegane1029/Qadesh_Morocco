@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a31a3a978bd0448580d4ef9f3d6d95bf, type: 3}
   m_Name: DataCacheComponentClear
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: 99c4e596b7eccd146b4f23715e834a44,
+  serializedUdonProgramAsset: {fileID: 11400000, guid: 80e7a09266426ec49b15a741e231deb3,
     type: 2}
   udonAssembly: ".data_start\r\n  .export __CyanTrigger_ProgramName_SystemString\r\n 
     .export key\r\n  .export componentType\r\n  __CyanTrigger_ProgramName_SystemString:

@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a31a3a978bd0448580d4ef9f3d6d95bf, type: 3}
   m_Name: PlayerTriggerEnterRemote
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: 901d4339a6447fd448c5514cc069bcbe,
+  serializedUdonProgramAsset: {fileID: 11400000, guid: 5d7c00b447b131c48a6e771a9cd6bba1,
     type: 2}
   udonAssembly: ".data_start\r\n  .export __CyanTrigger_ProgramName_SystemString\r\n 
     __CyanTrigger_ProgramName_SystemString: %SystemString, null\r\n  __CyanTrigger_ProgramHash_SystemString:

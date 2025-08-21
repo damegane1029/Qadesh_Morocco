@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a31a3a978bd0448580d4ef9f3d6d95bf, type: 3}
   m_Name: GameObjectSetCyanTriggerComponentActive
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: 3b75d644a295b0f4a9f538242035fa2a,
+  serializedUdonProgramAsset: {fileID: 11400000, guid: 0d77366324c2ae1489b747bce1864664,
     type: 2}
   udonAssembly: ".data_start\r\n  .export __CyanTrigger_ProgramName_SystemString\r\n 
     __CyanTrigger_ProgramName_SystemString: %SystemString, null\r\n  __CyanTrigger_ProgramHash_SystemString:

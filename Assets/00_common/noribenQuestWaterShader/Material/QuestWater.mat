@@ -2,20 +2,24 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!21 &2100000
 Material:
-  serializedVersion: 6
+  serializedVersion: 8
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: QuestWater
   m_Shader: {fileID: 4800000, guid: 4660d9c95eb9e14448132e3c6060918b, type: 3}
-  m_ShaderKeywords: 
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: -1
   stringTagMap: {}
   disabledShaderPasses: []
+  m_LockedProperties: 
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
@@ -31,6 +35,7 @@ Material:
         m_Texture: {fileID: 2800000, guid: 8c235d73d794d7240ae0e60873593580, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    m_Ints: []
     m_Floats:
     - _CubemapOn: 1
     - _Cull: 2
@@ -41,9 +46,9 @@ Material:
     - _RefMode: 1
     - _Reflection: 5
     - _Scrollx: 0
-    - _Scrolly: 0.02
+    - _Scrolly: 0.01
     - _Specular: 0.42
-    - _Transparency: 0.111
+    - _Transparency: 0.397
     - _WaveHeight: 0.07
     - _WaveNormalPower: 0.5
     - _WaveScale: 1
@@ -52,3 +57,4 @@ Material:
     - _Color: {r: 0.129539, g: 0.32331437, b: 0.38679248, a: 1}
     - _LightCol: {r: 0.9150943, g: 0.9150943, b: 0.9150943, a: 1}
     - _LightDir: {r: 0.59, g: 0.76, b: -0.53, a: 1}
+  m_BuildTextureStacks: []

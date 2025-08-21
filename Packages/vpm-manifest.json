@@ -15,20 +15,17 @@
     "jp.lilxyzw.liltoon": {
       "version": "2.1.4"
     },
-    "net.ureishi.qvpen": {
-      "version": "3.3.8"
-    },
     "red.sim.lightvolumes": {
       "version": "2.0.0"
     },
     "jp.lilxyzw.editortoolbox": {
       "version": "1.9.0"
     },
-    "com.mimylab.fukuroudon": {
-      "version": "3.8.1"
-    },
     "com.cyan.cyantrigger": {
       "version": "4.4.5"
+    },
+    "com.mimylab.fukuroudon": {
+      "version": "3.8.1"
     }
   },
   "locked": {
@@ -54,12 +51,6 @@
       "version": "2.1.4",
       "dependencies": {}
     },
-    "net.ureishi.qvpen": {
-      "version": "3.3.8",
-      "dependencies": {
-        "com.vrchat.worlds": "^3.5.0"
-      }
-    },
     "red.sim.lightvolumes": {
       "version": "2.0.0",
       "dependencies": {}
@@ -68,16 +59,16 @@
       "version": "1.9.0",
       "dependencies": {}
     },
-    "com.mimylab.fukuroudon": {
-      "version": "3.8.1",
-      "dependencies": {
-        "com.vrchat.worlds": "^3.8.2"
-      }
-    },
     "com.cyan.cyantrigger": {
       "version": "4.4.5",
       "dependencies": {
         "com.vrchat.worlds": "^3.1.x"
+      }
+    },
+    "com.mimylab.fukuroudon": {
+      "version": "3.8.1",
+      "dependencies": {
+        "com.vrchat.worlds": "^3.8.2"
       }
     }
   }

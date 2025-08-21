@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a31a3a978bd0448580d4ef9f3d6d95bf, type: 3}
   m_Name: GetPlayerBonePositionRotationTransform
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: 153ee2b45d4e005429b1885dfa447752,
+  serializedUdonProgramAsset: {fileID: 11400000, guid: 411e8f6aa9d331342abe177ad23f35c2,
     type: 2}
   udonAssembly: ".data_start\r\n  .export __CyanTrigger_ProgramName_SystemString\r\n 
     .export player\r\n  .export bone\r\n  .export transform\r\n  __CyanTrigger_ProgramName_SystemString:

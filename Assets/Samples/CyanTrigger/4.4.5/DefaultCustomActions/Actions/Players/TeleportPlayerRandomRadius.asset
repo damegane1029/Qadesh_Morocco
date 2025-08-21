@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a31a3a978bd0448580d4ef9f3d6d95bf, type: 3}
   m_Name: TeleportPlayerRandomRadius
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: 9b8bf90c4bb09a246936e9b670f069b7,
+  serializedUdonProgramAsset: {fileID: 11400000, guid: 09f2b21acc061bf4ba5bec037cb41e1d,
     type: 2}
   udonAssembly: ".data_start\r\n  .export __CyanTrigger_ProgramName_SystemString\r\n 
     .export target\r\n  .export randomRadius\r\n  __CyanTrigger_ProgramName_SystemString:

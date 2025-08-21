@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a31a3a978bd0448580d4ef9f3d6d95bf, type: 3}
   m_Name: InputGrabValue
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: 1e03f1265704def45a1491d5fec336a8,
+  serializedUdonProgramAsset: {fileID: 11400000, guid: ed0fd8f76b7dbb049a1ed5e94e5c0b2d,
     type: 2}
   udonAssembly: ".data_start\r\n  .export __CyanTrigger_ProgramName_SystemString\r\n 
     .export value\r\n  __CyanTrigger_ProgramName_SystemString: %SystemString, null\r\n 

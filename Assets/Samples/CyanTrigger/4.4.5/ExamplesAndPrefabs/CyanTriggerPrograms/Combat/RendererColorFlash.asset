@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a31a3a978bd0448580d4ef9f3d6d95bf, type: 3}
   m_Name: RendererColorFlash
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: 3ff1905e5888745498c729ee9e42424a,
+  serializedUdonProgramAsset: {fileID: 11400000, guid: bb6b0650bb4c27e41b2b17d572f6d686,
     type: 2}
   udonAssembly: ".data_start\r\n  .export __CyanTrigger_ProgramName_SystemString\r\n 
     .export renderers\r\n  .export flashLength\r\n  .export hitColor\r\n  .export

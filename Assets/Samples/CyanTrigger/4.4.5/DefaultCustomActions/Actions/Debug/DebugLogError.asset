@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a31a3a978bd0448580d4ef9f3d6d95bf, type: 3}
   m_Name: DebugLogError
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: a74c1e55e58978142bbc1a7df99ca131,
+  serializedUdonProgramAsset: {fileID: 11400000, guid: 5f4a68e26d00e2e4ab6127b8f8c99a42,
     type: 2}
   udonAssembly: ".data_start\r\n  .export __CyanTrigger_ProgramName_SystemString\r\n 
     .export Message\r\n  __CyanTrigger_ProgramName_SystemString: %SystemString, null\r\n 

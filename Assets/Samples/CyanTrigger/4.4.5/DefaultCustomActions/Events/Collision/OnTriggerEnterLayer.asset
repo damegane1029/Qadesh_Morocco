@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a31a3a978bd0448580d4ef9f3d6d95bf, type: 3}
   m_Name: OnTriggerEnterLayer
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: 337d9863f99cc67429c6c84398f75742,
+  serializedUdonProgramAsset: {fileID: 11400000, guid: 61a1c6306f2087c4b94934ef455a409d,
     type: 2}
   udonAssembly: ".data_start\r\n  .export __CyanTrigger_ProgramName_SystemString\r\n 
     .export CollisionMask\r\n  __CyanTrigger_ProgramName_SystemString: %SystemString,

@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a31a3a978bd0448580d4ef9f3d6d95bf, type: 3}
   m_Name: GunRaycastHandler
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: b53f4f4924d9159418a05dc7ce1d7f89,
+  serializedUdonProgramAsset: {fileID: 11400000, guid: 14c11af81106217449e03b7a7e04098f,
     type: 2}
   udonAssembly: ".data_start\r\n  .export __CyanTrigger_ProgramName_SystemString\r\n 
     .export maxDistance\r\n  .export canHitLayers\r\n  .export damagePerShot\r\n 

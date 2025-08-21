@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a31a3a978bd0448580d4ef9f3d6d95bf, type: 3}
   m_Name: OnCollisionExitNameContains
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: 6bcd51238e20faf4ba5ecae1a44d99d8,
+  serializedUdonProgramAsset: {fileID: 11400000, guid: f5ea5f04a8ef6ee4baf298efc6ae5f79,
     type: 2}
   udonAssembly: ".data_start\r\n  .export __CyanTrigger_ProgramName_SystemString\r\n 
     .export searchText\r\n  __CyanTrigger_ProgramName_SystemString: %SystemString,

@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a31a3a978bd0448580d4ef9f3d6d95bf, type: 3}
   m_Name: LocomotionSettingsV2
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: 9d332c81417b15f43b05687dd15a07bf,
+  serializedUdonProgramAsset: {fileID: 11400000, guid: ed64b1544f26e274ba873a9a36dd1fdc,
     type: 2}
   udonAssembly: ".data_start\r\n  .export __CyanTrigger_ProgramName_SystemString\r\n 
     .export WalkSpeed\r\n  .export StrafeSpeed\r\n  .export RunSpeed\r\n  .export

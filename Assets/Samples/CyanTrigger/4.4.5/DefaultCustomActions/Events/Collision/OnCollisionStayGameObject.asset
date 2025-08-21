@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a31a3a978bd0448580d4ef9f3d6d95bf, type: 3}
   m_Name: OnCollisionStayGameObject
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: 4392cb06ea607a94bbf941c30c2b99c3,
+  serializedUdonProgramAsset: {fileID: 11400000, guid: 55c7dba086a1c334dbac031f2f16b830,
     type: 2}
   udonAssembly: ".data_start\r\n  .export __CyanTrigger_ProgramName_SystemString\r\n 
     .export gameObject\r\n  __CyanTrigger_ProgramName_SystemString: %SystemString,
