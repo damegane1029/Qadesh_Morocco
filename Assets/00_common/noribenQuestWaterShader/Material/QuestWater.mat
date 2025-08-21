@@ -48,10 +48,10 @@ Material:
     - _Scrollx: 0
     - _Scrolly: 0.01
     - _Specular: 0.42
-    - _Transparency: 0.397
+    - _Transparency: 0.266
     - _WaveHeight: 0.07
     - _WaveNormalPower: 0.5
-    - _WaveScale: 1
+    - _WaveScale: 2
     - _ZWrite: 0
     m_Colors:
     - _Color: {r: 0.129539, g: 0.32331437, b: 0.38679248, a: 1}

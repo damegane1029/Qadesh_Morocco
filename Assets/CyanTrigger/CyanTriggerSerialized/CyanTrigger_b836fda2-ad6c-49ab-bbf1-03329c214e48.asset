@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 62eab678c02d50042baa35d04cd0db48, type: 3}
   m_Name: CyanTrigger_b836fda2-ad6c-49ab-bbf1-03329c214e48
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: eb31dcef8cd01724aae0d92ca41b46d3,
+  serializedUdonProgramAsset: {fileID: 11400000, guid: 87e2236fb6cd83d4685a86bd9af192ef,
     type: 2}
   udonAssembly: ".data_start\r\n  .export __CyanTrigger_ProgramName_SystemString\r\n 
     .export __10_ref_SystemString\r\n  .export __11_ref_VRCUdonUdonBehaviour\r\n 
