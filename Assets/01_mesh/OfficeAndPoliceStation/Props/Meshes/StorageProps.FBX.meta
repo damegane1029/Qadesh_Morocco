@@ -1,45 +1,119 @@
 fileFormatVersion: 2
 guid: bf65b9b8ba0318f4091aa772908cf28b
 ModelImporter:
-  serializedVersion: 23
-  fileIDToRecycleName:
-    100000: Box_Black
-    100002: Box_Cardboard
-    100004: Box_Gray
-    100006: Can
-    100008: Karri
-    100010: //RootNode
-    100012: Bottle
-    100014: Cart
-    400000: Box_Black
-    400002: Box_Cardboard
-    400004: Box_Gray
-    400006: Can
-    400008: Karri
-    400010: //RootNode
-    400012: Bottle
-    400014: Cart
-    2300000: Box_Black
-    2300002: Box_Cardboard
-    2300004: Box_Gray
-    2300006: Can
-    2300008: Karri
-    2300010: Bottle
-    2300012: Cart
-    3300000: Box_Black
-    3300002: Box_Cardboard
-    3300004: Box_Gray
-    3300006: Can
-    3300008: Karri
-    3300010: Bottle
-    3300012: Cart
-    4300000: Karri
-    4300002: Box_Black
-    4300004: Box_Cardboard
-    4300006: Box_Gray
-    4300008: Can
-    4300010: Cart
-    4300012: Bottle
+  serializedVersion: 22200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: Box_Black
+  - first:
+      1: 100002
+    second: Box_Cardboard
+  - first:
+      1: 100004
+    second: Box_Gray
+  - first:
+      1: 100006
+    second: Can
+  - first:
+      1: 100008
+    second: Karri
+  - first:
+      1: 100010
+    second: //RootNode
+  - first:
+      1: 100012
+    second: Bottle
+  - first:
+      1: 100014
+    second: Cart
+  - first:
+      4: 400000
+    second: Box_Black
+  - first:
+      4: 400002
+    second: Box_Cardboard
+  - first:
+      4: 400004
+    second: Box_Gray
+  - first:
+      4: 400006
+    second: Can
+  - first:
+      4: 400008
+    second: Karri
+  - first:
+      4: 400010
+    second: //RootNode
+  - first:
+      4: 400012
+    second: Bottle
+  - first:
+      4: 400014
+    second: Cart
+  - first:
+      23: 2300000
+    second: Box_Black
+  - first:
+      23: 2300002
+    second: Box_Cardboard
+  - first:
+      23: 2300004
+    second: Box_Gray
+  - first:
+      23: 2300006
+    second: Can
+  - first:
+      23: 2300008
+    second: Karri
+  - first:
+      23: 2300010
+    second: Bottle
+  - first:
+      23: 2300012
+    second: Cart
+  - first:
+      33: 3300000
+    second: Box_Black
+  - first:
+      33: 3300002
+    second: Box_Cardboard
+  - first:
+      33: 3300004
+    second: Box_Gray
+  - first:
+      33: 3300006
+    second: Can
+  - first:
+      33: 3300008
+    second: Karri
+  - first:
+      33: 3300010
+    second: Bottle
+  - first:
+      33: 3300012
+    second: Cart
+  - first:
+      43: 4300000
+    second: Karri
+  - first:
+      43: 4300002
+    second: Box_Black
+  - first:
+      43: 4300004
+    second: Box_Cardboard
+  - first:
+      43: 4300006
+    second: Box_Gray
+  - first:
+      43: 4300008
+    second: Can
+  - first:
+      43: 4300010
+    second: Cart
+  - first:
+      43: 4300012
+    second: Bottle
   externalObjects:
   - first:
       type: UnityEngine:Material
@@ -47,7 +121,7 @@ ModelImporter:
       name: StorageProps
     second: {fileID: 2100000, guid: faff026142d6af146ab634e3f35dd326, type: 2}
   materials:
-    importMaterials: 1
+    materialImportMode: 1
     materialName: 1
     materialSearch: 2
     materialLocation: 0
@@ -56,6 +130,7 @@ ModelImporter:
     bakeSimulation: 0
     resampleCurves: 1
     optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
     motionNodeName: 
     rigImportErrors: 
     rigImportWarnings: 
@@ -71,7 +146,8 @@ ModelImporter:
     animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
-    extraUserProperties: []
+    extraUserProperties:
+    - '#BAKERY{"meshName":["Bottle"],"padding":[256],"unwrapper":[0]}'
     clipAnimations: []
     isReadable: 1
   meshes:
@@ -80,25 +156,36 @@ ModelImporter:
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
     importVisibility: 0
     importBlendShapes: 1
     importCameras: 0
     importLights: 0
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
     swapUVChannels: 0
     generateSecondaryUV: 1
     useFileUnits: 1
-    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    bakeAxisConversion: 0
     preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
     indexFormat: 1
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15
     secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 32
     useFileScale: 1
-    previousCalculatedGlobalScale: 1
-    hasPreviousCalculatedGlobalScale: 0
+    strictVertexDataChecks: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
@@ -107,10 +194,10 @@ ModelImporter:
     legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
+  referencedClips: []
   importAnimation: 1
-  copyAvatar: 0
   humanDescription:
-    serializedVersion: 2
+    serializedVersion: 3
     human: []
     skeleton: []
     armTwist: 0.5
@@ -120,13 +207,19 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
+    globalScale: 1
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 0
   lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 0
   humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
   additionalBone: 0
   userData: 
   assetBundleName: 

@@ -1,67 +1,185 @@
 fileFormatVersion: 2
 guid: a2bca738ea5f71a4aa37fdb4aa307f41
 ModelImporter:
-  serializedVersion: 23
-  fileIDToRecycleName:
-    100000: //RootNode
-    100002: 11
-    100004: 12
-    100006: 13
-    100008: 14
-    100010: 15
-    100012: 16
-    100014: 17
-    100016: 18
-    100018: 19
-    100020: 20
-    400000: //RootNode
-    400002: 11
-    400004: 12
-    400006: 13
-    400008: 14
-    400010: 15
-    400012: 16
-    400014: 17
-    400016: 18
-    400018: 19
-    400020: 20
-    2100000: label2
-    2100002: glass
-    2100004: translucent2
-    2300000: //RootNode
-    2300002: 11
-    2300004: 12
-    2300006: 13
-    2300008: 14
-    2300010: 15
-    2300012: 16
-    2300014: 17
-    2300016: 18
-    2300018: 19
-    2300020: 20
-    3300000: //RootNode
-    3300002: 11
-    3300004: 12
-    3300006: 13
-    3300008: 14
-    3300010: 15
-    3300012: 16
-    3300014: 17
-    3300016: 18
-    3300018: 19
-    3300020: 20
-    4300000: osake2
-    4300002: 19
-    4300004: 18
-    4300006: 17
-    4300008: 16
-    4300010: 15
-    4300012: 14
-    4300014: 12
-    4300016: 13
-    4300018: 11
-    4300020: 20
-    2186277476908879412: ImportLogs
+  serializedVersion: 22200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: //RootNode
+  - first:
+      1: 100002
+    second: 11
+  - first:
+      1: 100004
+    second: 12
+  - first:
+      1: 100006
+    second: 13
+  - first:
+      1: 100008
+    second: 14
+  - first:
+      1: 100010
+    second: 15
+  - first:
+      1: 100012
+    second: 16
+  - first:
+      1: 100014
+    second: 17
+  - first:
+      1: 100016
+    second: 18
+  - first:
+      1: 100018
+    second: 19
+  - first:
+      1: 100020
+    second: 20
+  - first:
+      4: 400000
+    second: //RootNode
+  - first:
+      4: 400002
+    second: 11
+  - first:
+      4: 400004
+    second: 12
+  - first:
+      4: 400006
+    second: 13
+  - first:
+      4: 400008
+    second: 14
+  - first:
+      4: 400010
+    second: 15
+  - first:
+      4: 400012
+    second: 16
+  - first:
+      4: 400014
+    second: 17
+  - first:
+      4: 400016
+    second: 18
+  - first:
+      4: 400018
+    second: 19
+  - first:
+      4: 400020
+    second: 20
+  - first:
+      21: 2100000
+    second: label2
+  - first:
+      21: 2100002
+    second: glass
+  - first:
+      21: 2100004
+    second: translucent2
+  - first:
+      23: 2300000
+    second: //RootNode
+  - first:
+      23: 2300002
+    second: 11
+  - first:
+      23: 2300004
+    second: 12
+  - first:
+      23: 2300006
+    second: 13
+  - first:
+      23: 2300008
+    second: 14
+  - first:
+      23: 2300010
+    second: 15
+  - first:
+      23: 2300012
+    second: 16
+  - first:
+      23: 2300014
+    second: 17
+  - first:
+      23: 2300016
+    second: 18
+  - first:
+      23: 2300018
+    second: 19
+  - first:
+      23: 2300020
+    second: 20
+  - first:
+      33: 3300000
+    second: //RootNode
+  - first:
+      33: 3300002
+    second: 11
+  - first:
+      33: 3300004
+    second: 12
+  - first:
+      33: 3300006
+    second: 13
+  - first:
+      33: 3300008
+    second: 14
+  - first:
+      33: 3300010
+    second: 15
+  - first:
+      33: 3300012
+    second: 16
+  - first:
+      33: 3300014
+    second: 17
+  - first:
+      33: 3300016
+    second: 18
+  - first:
+      33: 3300018
+    second: 19
+  - first:
+      33: 3300020
+    second: 20
+  - first:
+      43: 4300000
+    second: osake2
+  - first:
+      43: 4300002
+    second: 19
+  - first:
+      43: 4300004
+    second: 18
+  - first:
+      43: 4300006
+    second: 17
+  - first:
+      43: 4300008
+    second: 16
+  - first:
+      43: 4300010
+    second: 15
+  - first:
+      43: 4300012
+    second: 14
+  - first:
+      43: 4300014
+    second: 12
+  - first:
+      43: 4300016
+    second: 13
+  - first:
+      43: 4300018
+    second: 11
+  - first:
+      43: 4300020
+    second: 20
+  - first:
+      41386430: 2186277476908879412
+    second: ImportLogs
   externalObjects:
   - first:
       type: UnityEngine:Material
@@ -79,7 +197,7 @@ ModelImporter:
       name: translucent2
     second: {fileID: 2100000, guid: 9f67079c4a565304ab1fd0c2ba76143a, type: 2}
   materials:
-    importMaterials: 1
+    materialImportMode: 1
     materialName: 0
     materialSearch: 1
     materialLocation: 1
@@ -88,6 +206,7 @@ ModelImporter:
     bakeSimulation: 0
     resampleCurves: 1
     optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
     motionNodeName: 
     rigImportErrors: 
     rigImportWarnings: 
@@ -103,7 +222,8 @@ ModelImporter:
     animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
-    extraUserProperties: []
+    extraUserProperties:
+    - '#BAKERY{"meshName":["17","19","13","20","16","14","12","11","18","15"],"padding":[200,186,188,175,178,169,180,203,197,161],"unwrapper":[0,0,0,0,0,0,0,0,0,0]}'
     clipAnimations: []
     isReadable: 1
   meshes:
@@ -112,25 +232,36 @@ ModelImporter:
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
     importLights: 1
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
     swapUVChannels: 0
     generateSecondaryUV: 1
     useFileUnits: 1
-    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    bakeAxisConversion: 0
     preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
     indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 1
-    previousCalculatedGlobalScale: 1
-    hasPreviousCalculatedGlobalScale: 0
+    strictVertexDataChecks: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
@@ -139,10 +270,10 @@ ModelImporter:
     legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
     blendShapeNormalImportMode: 2
     normalSmoothingSource: 0
+  referencedClips: []
   importAnimation: 1
-  copyAvatar: 0
   humanDescription:
-    serializedVersion: 2
+    serializedVersion: 3
     human: []
     skeleton: []
     armTwist: 0.5
@@ -152,13 +283,19 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
+    globalScale: 1
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 0
   humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
   additionalBone: 0
   userData: 
   assetBundleName: 

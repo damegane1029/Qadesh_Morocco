@@ -1,127 +1,359 @@
 fileFormatVersion: 2
 guid: 212be9fa99026db4e8540b59cb02ab71
 ModelImporter:
-  serializedVersion: 23
-  fileIDToRecycleName:
-    100000: Cylinder003
-    100002: Cylinder004
-    100004: Line375
-    100006: Line376
-    100008: //RootNode
-    100010: Pattern2D_19402
-    100012: Pattern2D_19413
-    100014: Pattern2D_19415
-    100016: Pattern2D_19416
-    100018: Pattern2D_19417
-    100020: Shape001
-    100022: Shape002
-    100024: Sphere010
-    100026: Sphere011
-    100028: Sphere012
-    100030: Sphere013
-    100032: Sphere014
-    100034: Sphere015
-    100036: Sphere016
-    100038: Sphere017
-    400000: Cylinder003
-    400002: Cylinder004
-    400004: Line375
-    400006: Line376
-    400008: //RootNode
-    400010: Pattern2D_19402
-    400012: Pattern2D_19413
-    400014: Pattern2D_19415
-    400016: Pattern2D_19416
-    400018: Pattern2D_19417
-    400020: Shape001
-    400022: Shape002
-    400024: Sphere010
-    400026: Sphere011
-    400028: Sphere012
-    400030: Sphere013
-    400032: Sphere014
-    400034: Sphere015
-    400036: Sphere016
-    400038: Sphere017
-    2100000: Cylinder003Mat
-    2100002: Cylinder004Mat
-    2100004: Line375Mat
-    2100006: Line376Mat
-    2100008: Pattern2D_19402Mat
-    2100010: Pattern2D_19413Mat
-    2100012: Pattern2D_19415Mat
-    2100014: Pattern2D_19416Mat
-    2100016: Pattern2D_19417Mat
-    2100018: Shape001Mat
-    2100020: Shape002Mat
-    2100022: Sphere010Mat
-    2100024: Sphere011Mat
-    2100026: Sphere012Mat
-    2100028: Sphere013Mat
-    2100030: Sphere014Mat
-    2100032: Sphere015Mat
-    2100034: Sphere016Mat
-    2100036: Sphere017Mat
-    2300000: Cylinder003
-    2300002: Cylinder004
-    2300004: Line375
-    2300006: Line376
-    2300008: Pattern2D_19402
-    2300010: Pattern2D_19413
-    2300012: Pattern2D_19415
-    2300014: Pattern2D_19416
-    2300016: Pattern2D_19417
-    2300018: Shape001
-    2300020: Shape002
-    2300022: Sphere010
-    2300024: Sphere011
-    2300026: Sphere012
-    2300028: Sphere013
-    2300030: Sphere014
-    2300032: Sphere015
-    2300034: Sphere016
-    2300036: Sphere017
-    3300000: Cylinder003
-    3300002: Cylinder004
-    3300004: Line375
-    3300006: Line376
-    3300008: Pattern2D_19402
-    3300010: Pattern2D_19413
-    3300012: Pattern2D_19415
-    3300014: Pattern2D_19416
-    3300016: Pattern2D_19417
-    3300018: Shape001
-    3300020: Shape002
-    3300022: Sphere010
-    3300024: Sphere011
-    3300026: Sphere012
-    3300028: Sphere013
-    3300030: Sphere014
-    3300032: Sphere015
-    3300034: Sphere016
-    3300036: Sphere017
-    4300000: Cylinder003
-    4300002: Cylinder004
-    4300004: Line375
-    4300006: Line376
-    4300008: Pattern2D_19402
-    4300010: Pattern2D_19413
-    4300012: Pattern2D_19415
-    4300014: Pattern2D_19416
-    4300016: Pattern2D_19417
-    4300018: Shape001
-    4300020: Shape002
-    4300022: Sphere010
-    4300024: Sphere011
-    4300026: Sphere012
-    4300028: Sphere013
-    4300030: Sphere014
-    4300032: Sphere015
-    4300034: Sphere016
-    4300036: Sphere017
+  serializedVersion: 22200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: Cylinder003
+  - first:
+      1: 100002
+    second: Cylinder004
+  - first:
+      1: 100004
+    second: Line375
+  - first:
+      1: 100006
+    second: Line376
+  - first:
+      1: 100008
+    second: //RootNode
+  - first:
+      1: 100010
+    second: Pattern2D_19402
+  - first:
+      1: 100012
+    second: Pattern2D_19413
+  - first:
+      1: 100014
+    second: Pattern2D_19415
+  - first:
+      1: 100016
+    second: Pattern2D_19416
+  - first:
+      1: 100018
+    second: Pattern2D_19417
+  - first:
+      1: 100020
+    second: Shape001
+  - first:
+      1: 100022
+    second: Shape002
+  - first:
+      1: 100024
+    second: Sphere010
+  - first:
+      1: 100026
+    second: Sphere011
+  - first:
+      1: 100028
+    second: Sphere012
+  - first:
+      1: 100030
+    second: Sphere013
+  - first:
+      1: 100032
+    second: Sphere014
+  - first:
+      1: 100034
+    second: Sphere015
+  - first:
+      1: 100036
+    second: Sphere016
+  - first:
+      1: 100038
+    second: Sphere017
+  - first:
+      4: 400000
+    second: Cylinder003
+  - first:
+      4: 400002
+    second: Cylinder004
+  - first:
+      4: 400004
+    second: Line375
+  - first:
+      4: 400006
+    second: Line376
+  - first:
+      4: 400008
+    second: //RootNode
+  - first:
+      4: 400010
+    second: Pattern2D_19402
+  - first:
+      4: 400012
+    second: Pattern2D_19413
+  - first:
+      4: 400014
+    second: Pattern2D_19415
+  - first:
+      4: 400016
+    second: Pattern2D_19416
+  - first:
+      4: 400018
+    second: Pattern2D_19417
+  - first:
+      4: 400020
+    second: Shape001
+  - first:
+      4: 400022
+    second: Shape002
+  - first:
+      4: 400024
+    second: Sphere010
+  - first:
+      4: 400026
+    second: Sphere011
+  - first:
+      4: 400028
+    second: Sphere012
+  - first:
+      4: 400030
+    second: Sphere013
+  - first:
+      4: 400032
+    second: Sphere014
+  - first:
+      4: 400034
+    second: Sphere015
+  - first:
+      4: 400036
+    second: Sphere016
+  - first:
+      4: 400038
+    second: Sphere017
+  - first:
+      21: 2100000
+    second: Cylinder003Mat
+  - first:
+      21: 2100002
+    second: Cylinder004Mat
+  - first:
+      21: 2100004
+    second: Line375Mat
+  - first:
+      21: 2100006
+    second: Line376Mat
+  - first:
+      21: 2100008
+    second: Pattern2D_19402Mat
+  - first:
+      21: 2100010
+    second: Pattern2D_19413Mat
+  - first:
+      21: 2100012
+    second: Pattern2D_19415Mat
+  - first:
+      21: 2100014
+    second: Pattern2D_19416Mat
+  - first:
+      21: 2100016
+    second: Pattern2D_19417Mat
+  - first:
+      21: 2100018
+    second: Shape001Mat
+  - first:
+      21: 2100020
+    second: Shape002Mat
+  - first:
+      21: 2100022
+    second: Sphere010Mat
+  - first:
+      21: 2100024
+    second: Sphere011Mat
+  - first:
+      21: 2100026
+    second: Sphere012Mat
+  - first:
+      21: 2100028
+    second: Sphere013Mat
+  - first:
+      21: 2100030
+    second: Sphere014Mat
+  - first:
+      21: 2100032
+    second: Sphere015Mat
+  - first:
+      21: 2100034
+    second: Sphere016Mat
+  - first:
+      21: 2100036
+    second: Sphere017Mat
+  - first:
+      23: 2300000
+    second: Cylinder003
+  - first:
+      23: 2300002
+    second: Cylinder004
+  - first:
+      23: 2300004
+    second: Line375
+  - first:
+      23: 2300006
+    second: Line376
+  - first:
+      23: 2300008
+    second: Pattern2D_19402
+  - first:
+      23: 2300010
+    second: Pattern2D_19413
+  - first:
+      23: 2300012
+    second: Pattern2D_19415
+  - first:
+      23: 2300014
+    second: Pattern2D_19416
+  - first:
+      23: 2300016
+    second: Pattern2D_19417
+  - first:
+      23: 2300018
+    second: Shape001
+  - first:
+      23: 2300020
+    second: Shape002
+  - first:
+      23: 2300022
+    second: Sphere010
+  - first:
+      23: 2300024
+    second: Sphere011
+  - first:
+      23: 2300026
+    second: Sphere012
+  - first:
+      23: 2300028
+    second: Sphere013
+  - first:
+      23: 2300030
+    second: Sphere014
+  - first:
+      23: 2300032
+    second: Sphere015
+  - first:
+      23: 2300034
+    second: Sphere016
+  - first:
+      23: 2300036
+    second: Sphere017
+  - first:
+      33: 3300000
+    second: Cylinder003
+  - first:
+      33: 3300002
+    second: Cylinder004
+  - first:
+      33: 3300004
+    second: Line375
+  - first:
+      33: 3300006
+    second: Line376
+  - first:
+      33: 3300008
+    second: Pattern2D_19402
+  - first:
+      33: 3300010
+    second: Pattern2D_19413
+  - first:
+      33: 3300012
+    second: Pattern2D_19415
+  - first:
+      33: 3300014
+    second: Pattern2D_19416
+  - first:
+      33: 3300016
+    second: Pattern2D_19417
+  - first:
+      33: 3300018
+    second: Shape001
+  - first:
+      33: 3300020
+    second: Shape002
+  - first:
+      33: 3300022
+    second: Sphere010
+  - first:
+      33: 3300024
+    second: Sphere011
+  - first:
+      33: 3300026
+    second: Sphere012
+  - first:
+      33: 3300028
+    second: Sphere013
+  - first:
+      33: 3300030
+    second: Sphere014
+  - first:
+      33: 3300032
+    second: Sphere015
+  - first:
+      33: 3300034
+    second: Sphere016
+  - first:
+      33: 3300036
+    second: Sphere017
+  - first:
+      43: 4300000
+    second: Cylinder003
+  - first:
+      43: 4300002
+    second: Cylinder004
+  - first:
+      43: 4300004
+    second: Line375
+  - first:
+      43: 4300006
+    second: Line376
+  - first:
+      43: 4300008
+    second: Pattern2D_19402
+  - first:
+      43: 4300010
+    second: Pattern2D_19413
+  - first:
+      43: 4300012
+    second: Pattern2D_19415
+  - first:
+      43: 4300014
+    second: Pattern2D_19416
+  - first:
+      43: 4300016
+    second: Pattern2D_19417
+  - first:
+      43: 4300018
+    second: Shape001
+  - first:
+      43: 4300020
+    second: Shape002
+  - first:
+      43: 4300022
+    second: Sphere010
+  - first:
+      43: 4300024
+    second: Sphere011
+  - first:
+      43: 4300026
+    second: Sphere012
+  - first:
+      43: 4300028
+    second: Sphere013
+  - first:
+      43: 4300030
+    second: Sphere014
+  - first:
+      43: 4300032
+    second: Sphere015
+  - first:
+      43: 4300034
+    second: Sphere016
+  - first:
+      43: 4300036
+    second: Sphere017
   externalObjects: {}
   materials:
-    importMaterials: 1
+    materialImportMode: 1
     materialName: 0
     materialSearch: 1
     materialLocation: 1
@@ -130,6 +362,7 @@ ModelImporter:
     bakeSimulation: 0
     resampleCurves: 1
     optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
     motionNodeName: 
     rigImportErrors: 
     rigImportWarnings: 
@@ -145,7 +378,8 @@ ModelImporter:
     animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
-    extraUserProperties: []
+    extraUserProperties:
+    - '#BAKERY{"meshName":["Pattern2D_19402","Sphere016","Cylinder004","Shape001","Sphere011","Sphere015","Sphere010","Pattern2D_19417","Pattern2D_19415","Sphere012","Sphere013","Sphere017","Cylinder003","Line376","Line375","Shape002","Pattern2D_19413","Pattern2D_19416","Sphere014"],"padding":[65,256,256,256,256,256,256,209,256,256,256,256,256,202,206,256,256,256,256],"unwrapper":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]}'
     clipAnimations: []
     isReadable: 1
   meshes:
@@ -154,25 +388,36 @@ ModelImporter:
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
     importLights: 1
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
     swapUVChannels: 0
     generateSecondaryUV: 1
     useFileUnits: 1
-    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    bakeAxisConversion: 0
     preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
     indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 1
-    previousCalculatedGlobalScale: 1
-    hasPreviousCalculatedGlobalScale: 0
+    strictVertexDataChecks: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
@@ -181,10 +426,10 @@ ModelImporter:
     legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
+  referencedClips: []
   importAnimation: 1
-  copyAvatar: 0
   humanDescription:
-    serializedVersion: 2
+    serializedVersion: 3
     human: []
     skeleton: []
     armTwist: 0.5
@@ -194,13 +439,19 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
+    globalScale: 1
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 0
   humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
   additionalBone: 0
   userData: 
   assetBundleName: 

@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &902331751602640817
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: a0d2fbdabad49074bba1efa923422f38,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -15.149
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a0d2fbdabad49074bba1efa923422f38,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.114
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a0d2fbdabad49074bba1efa923422f38,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 4.945
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a0d2fbdabad49074bba1efa923422f38,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7072302
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a0d2fbdabad49074bba1efa923422f38,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7069834
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a0d2fbdabad49074bba1efa923422f38,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a0d2fbdabad49074bba1efa923422f38,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a0d2fbdabad49074bba1efa923422f38,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -89.98
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a0d2fbdabad49074bba1efa923422f38,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a0d2fbdabad49074bba1efa923422f38,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: a0d2fbdabad49074bba1efa923422f38,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7e04d6cbc3511774eb630ede0ad64ff2, type: 2}
+    - target: {fileID: -7511558181221131132, guid: a0d2fbdabad49074bba1efa923422f38,
+        type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 1a40fd64f2dcbe84fa33337c1584acdd, type: 2}
+    - target: {fileID: -7511558181221131132, guid: a0d2fbdabad49074bba1efa923422f38,
+        type: 3}
+      propertyPath: m_Materials.Array.data[2]
+      value: 
+      objectReference: {fileID: 2100000, guid: 40ad932e40ad4314f9a74acc61f43980, type: 2}
+    - target: {fileID: -7511558181221131132, guid: a0d2fbdabad49074bba1efa923422f38,
+        type: 3}
+      propertyPath: m_Materials.Array.data[3]
+      value: 
+      objectReference: {fileID: 2100000, guid: d64bb306dfdecb64f8d52f123bd1a908, type: 2}
+    - target: {fileID: -7511558181221131132, guid: a0d2fbdabad49074bba1efa923422f38,
+        type: 3}
+      propertyPath: m_Materials.Array.data[4]
+      value: 
+      objectReference: {fileID: 2100000, guid: 711e43732e021d4479643bb5034466f9, type: 2}
+    - target: {fileID: 919132149155446097, guid: a0d2fbdabad49074bba1efa923422f38,
+        type: 3}
+      propertyPath: m_Name
+      value: AUDIO_SET
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: a0d2fbdabad49074bba1efa923422f38,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a0d2fbdabad49074bba1efa923422f38, type: 3}

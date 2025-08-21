@@ -1,80 +1,218 @@
 fileFormatVersion: 2
 guid: d50c406890934444cb8ca9fb509421aa
 ModelImporter:
-  serializedVersion: 23
-  fileIDToRecycleName:
-    100000: Cylinder
-    100002: Cylinder.1
-    100004: Cylinder.2
-    100006: Cylinder.3
-    100008: frame
-    100010: gold trim
-    100012: inviro
-    100014: LIGHT
-    100016: Light
-    100018: Light.1
-    100020: Light.2
-    100022: Null Object
-    100024: painting
-    100026: PIC-FRAME
-    100028: //RootNode
-    100030: plate
-    100032: Sweep NURBS
-    400000: Cylinder
-    400002: Cylinder.1
-    400004: Cylinder.2
-    400006: Cylinder.3
-    400008: frame
-    400010: gold trim
-    400012: inviro
-    400014: LIGHT
-    400016: Light
-    400018: Light.1
-    400020: Light.2
-    400022: Null Object
-    400024: painting
-    400026: PIC-FRAME
-    400028: //RootNode
-    400030: plate
-    400032: Sweep NURBS
-    2100000: GLOW-GLASS
-    2100002: SOCKET
-    2100004: BRASS-2
-    2100006: WOOD
-    2100008: PAINTING
-    2300000: Cylinder
-    2300002: Cylinder.1
-    2300004: Cylinder.2
-    2300006: Cylinder.3
-    2300008: frame
-    2300010: gold trim
-    2300012: painting
-    2300014: plate
-    2300016: Sweep NURBS
-    3300000: Cylinder
-    3300002: Cylinder.1
-    3300004: Cylinder.2
-    3300006: Cylinder.3
-    3300008: frame
-    3300010: gold trim
-    3300012: painting
-    3300014: plate
-    3300016: Sweep NURBS
-    4300000: Cylinder.1
-    4300002: Cylinder
-    4300004: Cylinder.2
-    4300006: Cylinder.3
-    4300008: Sweep NURBS
-    4300010: plate
-    4300012: frame
-    4300014: gold trim
-    4300016: painting
-    10800000: Light
-    10800002: Light.1
-    10800004: Light.2
+  serializedVersion: 22200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: Cylinder
+  - first:
+      1: 100002
+    second: Cylinder.1
+  - first:
+      1: 100004
+    second: Cylinder.2
+  - first:
+      1: 100006
+    second: Cylinder.3
+  - first:
+      1: 100008
+    second: frame
+  - first:
+      1: 100010
+    second: gold trim
+  - first:
+      1: 100012
+    second: inviro
+  - first:
+      1: 100014
+    second: LIGHT
+  - first:
+      1: 100016
+    second: Light
+  - first:
+      1: 100018
+    second: Light.1
+  - first:
+      1: 100020
+    second: Light.2
+  - first:
+      1: 100022
+    second: Null Object
+  - first:
+      1: 100024
+    second: painting
+  - first:
+      1: 100026
+    second: PIC-FRAME
+  - first:
+      1: 100028
+    second: //RootNode
+  - first:
+      1: 100030
+    second: plate
+  - first:
+      1: 100032
+    second: Sweep NURBS
+  - first:
+      4: 400000
+    second: Cylinder
+  - first:
+      4: 400002
+    second: Cylinder.1
+  - first:
+      4: 400004
+    second: Cylinder.2
+  - first:
+      4: 400006
+    second: Cylinder.3
+  - first:
+      4: 400008
+    second: frame
+  - first:
+      4: 400010
+    second: gold trim
+  - first:
+      4: 400012
+    second: inviro
+  - first:
+      4: 400014
+    second: LIGHT
+  - first:
+      4: 400016
+    second: Light
+  - first:
+      4: 400018
+    second: Light.1
+  - first:
+      4: 400020
+    second: Light.2
+  - first:
+      4: 400022
+    second: Null Object
+  - first:
+      4: 400024
+    second: painting
+  - first:
+      4: 400026
+    second: PIC-FRAME
+  - first:
+      4: 400028
+    second: //RootNode
+  - first:
+      4: 400030
+    second: plate
+  - first:
+      4: 400032
+    second: Sweep NURBS
+  - first:
+      21: 2100000
+    second: GLOW-GLASS
+  - first:
+      21: 2100002
+    second: SOCKET
+  - first:
+      21: 2100004
+    second: BRASS-2
+  - first:
+      21: 2100006
+    second: WOOD
+  - first:
+      21: 2100008
+    second: PAINTING
+  - first:
+      23: 2300000
+    second: Cylinder
+  - first:
+      23: 2300002
+    second: Cylinder.1
+  - first:
+      23: 2300004
+    second: Cylinder.2
+  - first:
+      23: 2300006
+    second: Cylinder.3
+  - first:
+      23: 2300008
+    second: frame
+  - first:
+      23: 2300010
+    second: gold trim
+  - first:
+      23: 2300012
+    second: painting
+  - first:
+      23: 2300014
+    second: plate
+  - first:
+      23: 2300016
+    second: Sweep NURBS
+  - first:
+      33: 3300000
+    second: Cylinder
+  - first:
+      33: 3300002
+    second: Cylinder.1
+  - first:
+      33: 3300004
+    second: Cylinder.2
+  - first:
+      33: 3300006
+    second: Cylinder.3
+  - first:
+      33: 3300008
+    second: frame
+  - first:
+      33: 3300010
+    second: gold trim
+  - first:
+      33: 3300012
+    second: painting
+  - first:
+      33: 3300014
+    second: plate
+  - first:
+      33: 3300016
+    second: Sweep NURBS
+  - first:
+      43: 4300000
+    second: Cylinder.1
+  - first:
+      43: 4300002
+    second: Cylinder
+  - first:
+      43: 4300004
+    second: Cylinder.2
+  - first:
+      43: 4300006
+    second: Cylinder.3
+  - first:
+      43: 4300008
+    second: Sweep NURBS
+  - first:
+      43: 4300010
+    second: plate
+  - first:
+      43: 4300012
+    second: frame
+  - first:
+      43: 4300014
+    second: gold trim
+  - first:
+      43: 4300016
+    second: painting
+  - first:
+      108: 10800000
+    second: Light
+  - first:
+      108: 10800002
+    second: Light.1
+  - first:
+      108: 10800004
+    second: Light.2
   externalObjects: {}
   materials:
-    importMaterials: 1
+    materialImportMode: 1
     materialName: 0
     materialSearch: 1
     materialLocation: 1
@@ -83,6 +221,7 @@ ModelImporter:
     bakeSimulation: 0
     resampleCurves: 1
     optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
     motionNodeName: 
     rigImportErrors: 
     rigImportWarnings: 
@@ -98,7 +237,8 @@ ModelImporter:
     animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
-    extraUserProperties: []
+    extraUserProperties:
+    - '#BAKERY{"meshName":["plate","painting","gold trim","frame","Sweep NURBS","Cylinder.1","Cylinder","Cylinder.3","Cylinder.2"],"padding":[256,115,256,82,256,256,256,256,256],"unwrapper":[0,0,0,0,0,0,0,0,0]}'
     clipAnimations: []
     isReadable: 1
   meshes:
@@ -107,25 +247,36 @@ ModelImporter:
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
     importLights: 1
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
     swapUVChannels: 0
     generateSecondaryUV: 1
     useFileUnits: 1
-    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    bakeAxisConversion: 0
     preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
     indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 1
-    previousCalculatedGlobalScale: 1
-    hasPreviousCalculatedGlobalScale: 0
+    strictVertexDataChecks: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
@@ -134,10 +285,10 @@ ModelImporter:
     legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
+  referencedClips: []
   importAnimation: 1
-  copyAvatar: 0
   humanDescription:
-    serializedVersion: 2
+    serializedVersion: 3
     human: []
     skeleton: []
     armTwist: 0.5
@@ -147,13 +298,19 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
+    globalScale: 1
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 0
   humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
   additionalBone: 0
   userData: 
   assetBundleName: 

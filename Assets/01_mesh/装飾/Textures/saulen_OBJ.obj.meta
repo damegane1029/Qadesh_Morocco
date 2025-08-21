@@ -1,97 +1,269 @@
 fileFormatVersion: 2
 guid: e1313521af682f34a99e668fdcb13cdf
 ModelImporter:
-  serializedVersion: 23
-  fileIDToRecycleName:
-    100000: ChamferBox001
-    100002: ChamferBox003
-    100004: ChamferBox004
-    100006: Saule003
-    100008: Saule006
-    100010: Saule009
-    100012: Saule_P006
-    100014: Saule_P007
-    100016: Saule_P008
-    100018: Saule_P009
-    100020: Saule_P01
-    100022: Saule_P02
-    100024: Saule_P03
-    100026: Saule_TOP_gross
-    100028: //RootNode
-    400000: ChamferBox001
-    400002: ChamferBox003
-    400004: ChamferBox004
-    400006: Saule003
-    400008: Saule006
-    400010: Saule009
-    400012: Saule_P006
-    400014: Saule_P007
-    400016: Saule_P008
-    400018: Saule_P009
-    400020: Saule_P01
-    400022: Saule_P02
-    400024: Saule_P03
-    400026: Saule_TOP_gross
-    400028: //RootNode
-    2100000: ChamferBox001Mat
-    2100002: ChamferBox003Mat
-    2100004: ChamferBox004Mat
-    2100006: Saule003Mat
-    2100008: Saule006Mat
-    2100010: Saule009Mat
-    2100012: Saule_P006Mat
-    2100014: Saule_P007Mat
-    2100016: Saule_P008Mat
-    2100018: Saule_P009Mat
-    2100020: Saule_P01Mat
-    2100022: Saule_P02Mat
-    2100024: Saule_P03Mat
-    2100026: Saule_TOP_grossMat
-    2300000: ChamferBox001
-    2300002: ChamferBox003
-    2300004: ChamferBox004
-    2300006: Saule003
-    2300008: Saule006
-    2300010: Saule009
-    2300012: Saule_P006
-    2300014: Saule_P007
-    2300016: Saule_P008
-    2300018: Saule_P009
-    2300020: Saule_P01
-    2300022: Saule_P02
-    2300024: Saule_P03
-    2300026: Saule_TOP_gross
-    3300000: ChamferBox001
-    3300002: ChamferBox003
-    3300004: ChamferBox004
-    3300006: Saule003
-    3300008: Saule006
-    3300010: Saule009
-    3300012: Saule_P006
-    3300014: Saule_P007
-    3300016: Saule_P008
-    3300018: Saule_P009
-    3300020: Saule_P01
-    3300022: Saule_P02
-    3300024: Saule_P03
-    3300026: Saule_TOP_gross
-    4300000: ChamferBox001
-    4300002: ChamferBox003
-    4300004: ChamferBox004
-    4300006: Saule003
-    4300008: Saule006
-    4300010: Saule009
-    4300012: Saule_P006
-    4300014: Saule_P007
-    4300016: Saule_P008
-    4300018: Saule_P009
-    4300020: Saule_P01
-    4300022: Saule_P02
-    4300024: Saule_P03
-    4300026: Saule_TOP_gross
+  serializedVersion: 22200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: ChamferBox001
+  - first:
+      1: 100002
+    second: ChamferBox003
+  - first:
+      1: 100004
+    second: ChamferBox004
+  - first:
+      1: 100006
+    second: Saule003
+  - first:
+      1: 100008
+    second: Saule006
+  - first:
+      1: 100010
+    second: Saule009
+  - first:
+      1: 100012
+    second: Saule_P006
+  - first:
+      1: 100014
+    second: Saule_P007
+  - first:
+      1: 100016
+    second: Saule_P008
+  - first:
+      1: 100018
+    second: Saule_P009
+  - first:
+      1: 100020
+    second: Saule_P01
+  - first:
+      1: 100022
+    second: Saule_P02
+  - first:
+      1: 100024
+    second: Saule_P03
+  - first:
+      1: 100026
+    second: Saule_TOP_gross
+  - first:
+      1: 100028
+    second: //RootNode
+  - first:
+      4: 400000
+    second: ChamferBox001
+  - first:
+      4: 400002
+    second: ChamferBox003
+  - first:
+      4: 400004
+    second: ChamferBox004
+  - first:
+      4: 400006
+    second: Saule003
+  - first:
+      4: 400008
+    second: Saule006
+  - first:
+      4: 400010
+    second: Saule009
+  - first:
+      4: 400012
+    second: Saule_P006
+  - first:
+      4: 400014
+    second: Saule_P007
+  - first:
+      4: 400016
+    second: Saule_P008
+  - first:
+      4: 400018
+    second: Saule_P009
+  - first:
+      4: 400020
+    second: Saule_P01
+  - first:
+      4: 400022
+    second: Saule_P02
+  - first:
+      4: 400024
+    second: Saule_P03
+  - first:
+      4: 400026
+    second: Saule_TOP_gross
+  - first:
+      4: 400028
+    second: //RootNode
+  - first:
+      21: 2100000
+    second: ChamferBox001Mat
+  - first:
+      21: 2100002
+    second: ChamferBox003Mat
+  - first:
+      21: 2100004
+    second: ChamferBox004Mat
+  - first:
+      21: 2100006
+    second: Saule003Mat
+  - first:
+      21: 2100008
+    second: Saule006Mat
+  - first:
+      21: 2100010
+    second: Saule009Mat
+  - first:
+      21: 2100012
+    second: Saule_P006Mat
+  - first:
+      21: 2100014
+    second: Saule_P007Mat
+  - first:
+      21: 2100016
+    second: Saule_P008Mat
+  - first:
+      21: 2100018
+    second: Saule_P009Mat
+  - first:
+      21: 2100020
+    second: Saule_P01Mat
+  - first:
+      21: 2100022
+    second: Saule_P02Mat
+  - first:
+      21: 2100024
+    second: Saule_P03Mat
+  - first:
+      21: 2100026
+    second: Saule_TOP_grossMat
+  - first:
+      23: 2300000
+    second: ChamferBox001
+  - first:
+      23: 2300002
+    second: ChamferBox003
+  - first:
+      23: 2300004
+    second: ChamferBox004
+  - first:
+      23: 2300006
+    second: Saule003
+  - first:
+      23: 2300008
+    second: Saule006
+  - first:
+      23: 2300010
+    second: Saule009
+  - first:
+      23: 2300012
+    second: Saule_P006
+  - first:
+      23: 2300014
+    second: Saule_P007
+  - first:
+      23: 2300016
+    second: Saule_P008
+  - first:
+      23: 2300018
+    second: Saule_P009
+  - first:
+      23: 2300020
+    second: Saule_P01
+  - first:
+      23: 2300022
+    second: Saule_P02
+  - first:
+      23: 2300024
+    second: Saule_P03
+  - first:
+      23: 2300026
+    second: Saule_TOP_gross
+  - first:
+      33: 3300000
+    second: ChamferBox001
+  - first:
+      33: 3300002
+    second: ChamferBox003
+  - first:
+      33: 3300004
+    second: ChamferBox004
+  - first:
+      33: 3300006
+    second: Saule003
+  - first:
+      33: 3300008
+    second: Saule006
+  - first:
+      33: 3300010
+    second: Saule009
+  - first:
+      33: 3300012
+    second: Saule_P006
+  - first:
+      33: 3300014
+    second: Saule_P007
+  - first:
+      33: 3300016
+    second: Saule_P008
+  - first:
+      33: 3300018
+    second: Saule_P009
+  - first:
+      33: 3300020
+    second: Saule_P01
+  - first:
+      33: 3300022
+    second: Saule_P02
+  - first:
+      33: 3300024
+    second: Saule_P03
+  - first:
+      33: 3300026
+    second: Saule_TOP_gross
+  - first:
+      43: 4300000
+    second: ChamferBox001
+  - first:
+      43: 4300002
+    second: ChamferBox003
+  - first:
+      43: 4300004
+    second: ChamferBox004
+  - first:
+      43: 4300006
+    second: Saule003
+  - first:
+      43: 4300008
+    second: Saule006
+  - first:
+      43: 4300010
+    second: Saule009
+  - first:
+      43: 4300012
+    second: Saule_P006
+  - first:
+      43: 4300014
+    second: Saule_P007
+  - first:
+      43: 4300016
+    second: Saule_P008
+  - first:
+      43: 4300018
+    second: Saule_P009
+  - first:
+      43: 4300020
+    second: Saule_P01
+  - first:
+      43: 4300022
+    second: Saule_P02
+  - first:
+      43: 4300024
+    second: Saule_P03
+  - first:
+      43: 4300026
+    second: Saule_TOP_gross
   externalObjects: {}
   materials:
-    importMaterials: 1
+    materialImportMode: 1
     materialName: 0
     materialSearch: 1
     materialLocation: 1
@@ -100,6 +272,7 @@ ModelImporter:
     bakeSimulation: 0
     resampleCurves: 1
     optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
     motionNodeName: 
     rigImportErrors: 
     rigImportWarnings: 
@@ -115,7 +288,8 @@ ModelImporter:
     animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
-    extraUserProperties: []
+    extraUserProperties:
+    - '#BAKERY{"meshName":["Saule_TOP_gross","Saule_P009","Saule_P008","Saule_P007","Saule_P006","Saule009","Saule006","ChamferBox004","ChamferBox003"],"padding":[19,98,57,57,98,28,28,66,66],"unwrapper":[0,0,0,0,0,0,0,0,0]}'
     clipAnimations: []
     isReadable: 1
   meshes:
@@ -124,25 +298,36 @@ ModelImporter:
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
     importLights: 1
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
     swapUVChannels: 0
     generateSecondaryUV: 1
     useFileUnits: 1
-    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    bakeAxisConversion: 0
     preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
     indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 1
-    previousCalculatedGlobalScale: 1
-    hasPreviousCalculatedGlobalScale: 0
+    strictVertexDataChecks: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
@@ -151,10 +336,10 @@ ModelImporter:
     legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
+  referencedClips: []
   importAnimation: 1
-  copyAvatar: 0
   humanDescription:
-    serializedVersion: 2
+    serializedVersion: 3
     human: []
     skeleton: []
     armTwist: 0.5
@@ -164,13 +349,19 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
+    globalScale: 1
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 0
   humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
   additionalBone: 0
   userData: 
   assetBundleName: 

@@ -1,100 +1,278 @@
 fileFormatVersion: 2
 guid: c63618c1f6184144a81e5de634cf9f04
 ModelImporter:
-  serializedVersion: 23
-  fileIDToRecycleName:
-    100000: Plane_Floor_White
-    100002: Table_1_1
-    100004: Table_1_2
-    100006: Table_1_3
-    100008: Table_1_3_a
-    100010: Table_1_3_b
-    100012: Table_1_4
-    100014: Table_1_5
-    100016: Table_1_6
-    100018: Table_1_7
-    100020: Table_1_8
-    100022: Table_1_8 1
-    100024: //RootNode
-    100026: VRayDomeCamera001_360
-    100028: VRayDomeCamera002
-    100030: VRayDomeCamera003
-    100032: VRayDomeCamera004
-    100034: VRayDomeCamera005
-    100036: VRayDomeCamera006
-    100038: VRayDomeCamera007
-    100040: VRayDomeCamera008
-    100042: VRayDomeCamera009
-    100044: VRayDomeCamera010
-    400000: Plane_Floor_White
-    400002: Table_1_1
-    400004: Table_1_2
-    400006: Table_1_3
-    400008: Table_1_3_a
-    400010: Table_1_3_b
-    400012: Table_1_4
-    400014: Table_1_5
-    400016: Table_1_6
-    400018: Table_1_7
-    400020: Table_1_8
-    400022: Table_1_8 1
-    400024: //RootNode
-    400026: VRayDomeCamera001_360
-    400028: VRayDomeCamera002
-    400030: VRayDomeCamera003
-    400032: VRayDomeCamera004
-    400034: VRayDomeCamera005
-    400036: VRayDomeCamera006
-    400038: VRayDomeCamera007
-    400040: VRayDomeCamera008
-    400042: VRayDomeCamera009
-    400044: VRayDomeCamera010
-    2100000: plane_floor
-    2100002: black
-    2100004: wood_1
-    2100006: GLASS_1
-    2100008: light
-    2300000: Plane_Floor_White
-    2300002: Table_1_1
-    2300004: Table_1_2
-    2300006: Table_1_3
-    2300008: Table_1_3_a
-    2300010: Table_1_3_b
-    2300012: Table_1_4
-    2300014: Table_1_5
-    2300016: Table_1_6
-    2300018: Table_1_7
-    2300020: Table_1_8
-    2300022: Table_1_8 1
-    3300000: Plane_Floor_White
-    3300002: Table_1_1
-    3300004: Table_1_2
-    3300006: Table_1_3
-    3300008: Table_1_3_a
-    3300010: Table_1_3_b
-    3300012: Table_1_4
-    3300014: Table_1_5
-    3300016: Table_1_6
-    3300018: Table_1_7
-    3300020: Table_1_8
-    3300022: Table_1_8 1
-    4300000: Plane_Floor_White
-    4300002: Table_1_5
-    4300004: Table_1_6
-    4300006: Table_1_1
-    4300008: Table_1_2
-    4300010: Table_1_3
-    4300012: Table_1_7
-    4300014: Table_1_4
-    4300016: Table_1_8
-    4300018: Table_1_3_a
-    4300020: Table_1_3_b
-    4300022: Table_1_8
-    7400000: Take 001
-    9500000: //RootNode
+  serializedVersion: 22200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: Plane_Floor_White
+  - first:
+      1: 100002
+    second: Table_1_1
+  - first:
+      1: 100004
+    second: Table_1_2
+  - first:
+      1: 100006
+    second: Table_1_3
+  - first:
+      1: 100008
+    second: Table_1_3_a
+  - first:
+      1: 100010
+    second: Table_1_3_b
+  - first:
+      1: 100012
+    second: Table_1_4
+  - first:
+      1: 100014
+    second: Table_1_5
+  - first:
+      1: 100016
+    second: Table_1_6
+  - first:
+      1: 100018
+    second: Table_1_7
+  - first:
+      1: 100020
+    second: Table_1_8
+  - first:
+      1: 100022
+    second: Table_1_8 1
+  - first:
+      1: 100024
+    second: //RootNode
+  - first:
+      1: 100026
+    second: VRayDomeCamera001_360
+  - first:
+      1: 100028
+    second: VRayDomeCamera002
+  - first:
+      1: 100030
+    second: VRayDomeCamera003
+  - first:
+      1: 100032
+    second: VRayDomeCamera004
+  - first:
+      1: 100034
+    second: VRayDomeCamera005
+  - first:
+      1: 100036
+    second: VRayDomeCamera006
+  - first:
+      1: 100038
+    second: VRayDomeCamera007
+  - first:
+      1: 100040
+    second: VRayDomeCamera008
+  - first:
+      1: 100042
+    second: VRayDomeCamera009
+  - first:
+      1: 100044
+    second: VRayDomeCamera010
+  - first:
+      4: 400000
+    second: Plane_Floor_White
+  - first:
+      4: 400002
+    second: Table_1_1
+  - first:
+      4: 400004
+    second: Table_1_2
+  - first:
+      4: 400006
+    second: Table_1_3
+  - first:
+      4: 400008
+    second: Table_1_3_a
+  - first:
+      4: 400010
+    second: Table_1_3_b
+  - first:
+      4: 400012
+    second: Table_1_4
+  - first:
+      4: 400014
+    second: Table_1_5
+  - first:
+      4: 400016
+    second: Table_1_6
+  - first:
+      4: 400018
+    second: Table_1_7
+  - first:
+      4: 400020
+    second: Table_1_8
+  - first:
+      4: 400022
+    second: Table_1_8 1
+  - first:
+      4: 400024
+    second: //RootNode
+  - first:
+      4: 400026
+    second: VRayDomeCamera001_360
+  - first:
+      4: 400028
+    second: VRayDomeCamera002
+  - first:
+      4: 400030
+    second: VRayDomeCamera003
+  - first:
+      4: 400032
+    second: VRayDomeCamera004
+  - first:
+      4: 400034
+    second: VRayDomeCamera005
+  - first:
+      4: 400036
+    second: VRayDomeCamera006
+  - first:
+      4: 400038
+    second: VRayDomeCamera007
+  - first:
+      4: 400040
+    second: VRayDomeCamera008
+  - first:
+      4: 400042
+    second: VRayDomeCamera009
+  - first:
+      4: 400044
+    second: VRayDomeCamera010
+  - first:
+      21: 2100000
+    second: plane_floor
+  - first:
+      21: 2100002
+    second: black
+  - first:
+      21: 2100004
+    second: wood_1
+  - first:
+      21: 2100006
+    second: GLASS_1
+  - first:
+      21: 2100008
+    second: light
+  - first:
+      23: 2300000
+    second: Plane_Floor_White
+  - first:
+      23: 2300002
+    second: Table_1_1
+  - first:
+      23: 2300004
+    second: Table_1_2
+  - first:
+      23: 2300006
+    second: Table_1_3
+  - first:
+      23: 2300008
+    second: Table_1_3_a
+  - first:
+      23: 2300010
+    second: Table_1_3_b
+  - first:
+      23: 2300012
+    second: Table_1_4
+  - first:
+      23: 2300014
+    second: Table_1_5
+  - first:
+      23: 2300016
+    second: Table_1_6
+  - first:
+      23: 2300018
+    second: Table_1_7
+  - first:
+      23: 2300020
+    second: Table_1_8
+  - first:
+      23: 2300022
+    second: Table_1_8 1
+  - first:
+      33: 3300000
+    second: Plane_Floor_White
+  - first:
+      33: 3300002
+    second: Table_1_1
+  - first:
+      33: 3300004
+    second: Table_1_2
+  - first:
+      33: 3300006
+    second: Table_1_3
+  - first:
+      33: 3300008
+    second: Table_1_3_a
+  - first:
+      33: 3300010
+    second: Table_1_3_b
+  - first:
+      33: 3300012
+    second: Table_1_4
+  - first:
+      33: 3300014
+    second: Table_1_5
+  - first:
+      33: 3300016
+    second: Table_1_6
+  - first:
+      33: 3300018
+    second: Table_1_7
+  - first:
+      33: 3300020
+    second: Table_1_8
+  - first:
+      33: 3300022
+    second: Table_1_8 1
+  - first:
+      43: 4300000
+    second: Plane_Floor_White
+  - first:
+      43: 4300002
+    second: Table_1_5
+  - first:
+      43: 4300004
+    second: Table_1_6
+  - first:
+      43: 4300006
+    second: Table_1_1
+  - first:
+      43: 4300008
+    second: Table_1_2
+  - first:
+      43: 4300010
+    second: Table_1_3
+  - first:
+      43: 4300012
+    second: Table_1_7
+  - first:
+      43: 4300014
+    second: Table_1_4
+  - first:
+      43: 4300016
+    second: Table_1_8
+  - first:
+      43: 4300018
+    second: Table_1_3_a
+  - first:
+      43: 4300020
+    second: Table_1_3_b
+  - first:
+      43: 4300022
+    second: Table_1_8
+  - first:
+      74: 7400000
+    second: Take 001
+  - first:
+      95: 9500000
+    second: //RootNode
   externalObjects: {}
   materials:
-    importMaterials: 1
+    materialImportMode: 1
     materialName: 0
     materialSearch: 1
     materialLocation: 1
@@ -103,6 +281,7 @@ ModelImporter:
     bakeSimulation: 0
     resampleCurves: 1
     optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
     motionNodeName: 
     rigImportErrors: 
     rigImportWarnings: 
@@ -118,7 +297,8 @@ ModelImporter:
     animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
-    extraUserProperties: []
+    extraUserProperties:
+    - '#BAKERY{"meshName":["Table_1_8","Table_1_7","Table_1_6","Table_1_5","Table_1_4","Table_1_3_b","Table_1_3_a","Table_1_3","Table_1_2","Table_1_1"],"padding":[24,24,26,26,25,144,147,63,37,57],"unwrapper":[0,0,0,0,0,0,0,0,0,0]}'
     clipAnimations: []
     isReadable: 1
   meshes:
@@ -127,25 +307,36 @@ ModelImporter:
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
     importLights: 1
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
     swapUVChannels: 0
     generateSecondaryUV: 1
     useFileUnits: 1
-    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    bakeAxisConversion: 0
     preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
     indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 1
-    previousCalculatedGlobalScale: 0.01
-    hasPreviousCalculatedGlobalScale: 1
+    strictVertexDataChecks: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
@@ -154,10 +345,10 @@ ModelImporter:
     legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
+  referencedClips: []
   importAnimation: 1
-  copyAvatar: 0
   humanDescription:
-    serializedVersion: 2
+    serializedVersion: 3
     human: []
     skeleton: []
     armTwist: 0.5
@@ -167,13 +358,19 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
+    globalScale: 1
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 2
   humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
   additionalBone: 0
   userData: 
   assetBundleName: 
