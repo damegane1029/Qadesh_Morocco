@@ -67,7 +67,7 @@ Shader "Noriben/noribenQuestWaterCubemap"
 			#pragma fragment frag
 			// make fog work
 			#pragma multi_compile_fog
-			
+			#pragma multi_compile_instancing			
 			#include "UnityCG.cginc"
 
 			struct appdata
@@ -76,6 +76,7 @@ Shader "Noriben/noribenQuestWaterCubemap"
 				float2 uv : TEXCOORD0;
 				half3 normal : NORMAL;
 				half4 tangent : TANGENT;
+				UNITY_VERTEX_INPUT_INSTANCE_ID
 			};
 
 			struct v2f
@@ -89,6 +90,8 @@ Shader "Noriben/noribenQuestWaterCubemap"
 				half3 binormal : TEXCOORD5;
 				half3 lightDir : TEXCOORD6;
 				half3 viewDir : TEXCOORD7;
+				UNITY_VERTEX_INPUT_INSTANCE_ID
+				UNITY_VERTEX_OUTPUT_STEREO
 			};
 
 			fixed4 _Color;
@@ -116,6 +119,9 @@ Shader "Noriben/noribenQuestWaterCubemap"
 			v2f vert (appdata v)
 			{
 				v2f o;
+				UNITY_SETUP_INSTANCE_ID(v);
+				UNITY_INITIALIZE_VERTEX_OUTPUT_STEREO(o);
+				UNITY_TRANSFER_INSTANCE_ID(v, o);
 
 				o.normal = UnityObjectToWorldNormal(v.normal);
 				o.uv = TRANSFORM_TEX(v.uv, _MainTex);
@@ -150,6 +156,9 @@ Shader "Noriben/noribenQuestWaterCubemap"
 			
 			fixed4 frag (v2f i) : SV_Target
 			{	
+				UNITY_SETUP_INSTANCE_ID(i);
+                UNITY_SETUP_STEREO_EYE_INDEX_POST_VERTEX(i);
+				
 				//uvスケール
 				i.uv *= _WaveScale;
 
