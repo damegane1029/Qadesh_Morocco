@@ -1,0 +1,2514 @@
+fileFormatVersion: 2
+guid: f991a001cd179b24398a1b6567a8a346
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5104261902535504225
+    second: candleFlame_Short_Loop5_0
+  - first:
+      213: -2189845659943674687
+    second: candleFlame_Short_Loop5_1
+  - first:
+      213: -840348107110736228
+    second: candleFlame_Short_Loop5_2
+  - first:
+      213: -3483535799955386008
+    second: candleFlame_Short_Loop5_3
+  - first:
+      213: -8789945853470229344
+    second: candleFlame_Short_Loop5_4
+  - first:
+      213: -2165055916029486208
+    second: candleFlame_Short_Loop5_5
+  - first:
+      213: 8828779612973966552
+    second: candleFlame_Short_Loop5_6
+  - first:
+      213: -7114604603671430076
+    second: candleFlame_Short_Loop5_7
+  - first:
+      213: 7078580369916952373
+    second: candleFlame_Short_Loop5_8
+  - first:
+      213: 2993701562018318227
+    second: candleFlame_Short_Loop5_9
+  - first:
+      213: -6773708532245044400
+    second: candleFlame_Short_Loop5_10
+  - first:
+      213: -6228182670280552002
+    second: candleFlame_Short_Loop5_11
+  - first:
+      213: -514725229958967178
+    second: candleFlame_Short_Loop5_12
+  - first:
+      213: 8978199178800313401
+    second: candleFlame_Short_Loop5_13
+  - first:
+      213: 3704884740729828755
+    second: candleFlame_Short_Loop5_14
+  - first:
+      213: -7043145008373366334
+    second: candleFlame_Short_Loop5_15
+  - first:
+      213: 2656522728463311161
+    second: candleFlame_Short_Loop5_16
+  - first:
+      213: 2560883532336939480
+    second: candleFlame_Short_Loop5_17
+  - first:
+      213: -391536838677587632
+    second: candleFlame_Short_Loop5_18
+  - first:
+      213: -3416953560779752734
+    second: candleFlame_Short_Loop5_19
+  - first:
+      213: -6661130162647875440
+    second: candleFlame_Short_Loop5_20
+  - first:
+      213: -7961089188931875520
+    second: candleFlame_Short_Loop5_21
+  - first:
+      213: 297612406666751612
+    second: candleFlame_Short_Loop5_22
+  - first:
+      213: 4278186881974252230
+    second: candleFlame_Short_Loop5_23
+  - first:
+      213: -2226904713287336714
+    second: candleFlame_Short_Loop5_24
+  - first:
+      213: -1855137650357245983
+    second: candleFlame_Short_Loop5_25
+  - first:
+      213: 8356059615072682643
+    second: candleFlame_Short_Loop5_26
+  - first:
+      213: 9092395416172428942
+    second: candleFlame_Short_Loop5_27
+  - first:
+      213: 3614927224491517888
+    second: candleFlame_Short_Loop5_28
+  - first:
+      213: 8752768908446627195
+    second: candleFlame_Short_Loop5_29
+  - first:
+      213: 5511459329291458744
+    second: candleFlame_Short_Loop5_30
+  - first:
+      213: -1236720623398570006
+    second: candleFlame_Short_Loop5_31
+  - first:
+      213: -5166980468904443212
+    second: candleFlame_Short_Loop5_32
+  - first:
+      213: -7193484295745056961
+    second: candleFlame_Short_Loop5_33
+  - first:
+      213: 849533367104964710
+    second: candleFlame_Short_Loop5_34
+  - first:
+      213: 6731374484015056067
+    second: candleFlame_Short_Loop5_35
+  - first:
+      213: -481492442895858896
+    second: candleFlame_Short_Loop5_36
+  - first:
+      213: -5041674334086561760
+    second: candleFlame_Short_Loop5_37
+  - first:
+      213: 9157573920159302977
+    second: candleFlame_Short_Loop5_38
+  - first:
+      213: -2936218118952692001
+    second: candleFlame_Short_Loop5_39
+  - first:
+      213: 4117070260796171240
+    second: candleFlame_Short_Loop5_40
+  - first:
+      213: 5870362209022959115
+    second: candleFlame_Short_Loop5_41
+  - first:
+      213: 9151841464390399793
+    second: candleFlame_Short_Loop5_42
+  - first:
+      213: 601909984521710542
+    second: candleFlame_Short_Loop5_43
+  - first:
+      213: -1789389478797835674
+    second: candleFlame_Short_Loop5_44
+  - first:
+      213: 9191635503648371475
+    second: candleFlame_Short_Loop5_45
+  - first:
+      213: 6459009889367262361
+    second: candleFlame_Short_Loop5_46
+  - first:
+      213: 3451915226486340506
+    second: candleFlame_Short_Loop5_47
+  - first:
+      213: 367996521145571747
+    second: candleFlame_Short_Loop5_48
+  - first:
+      213: -6335033404788188677
+    second: candleFlame_Short_Loop5_49
+  - first:
+      213: 7879105326110118114
+    second: candleFlame_Short_Loop5_50
+  - first:
+      213: 1288985592392516080
+    second: candleFlame_Short_Loop5_51
+  - first:
+      213: -9013868929816060557
+    second: candleFlame_Short_Loop5_52
+  - first:
+      213: 6706396325025109555
+    second: candleFlame_Short_Loop5_53
+  - first:
+      213: -3107597802534919657
+    second: candleFlame_Short_Loop5_54
+  - first:
+      213: 2524941822975691148
+    second: candleFlame_Short_Loop5_55
+  - first:
+      213: -3143193667890187364
+    second: candleFlame_Short_Loop5_56
+  - first:
+      213: -5088671517139434765
+    second: candleFlame_Short_Loop5_57
+  - first:
+      213: 7163426537533792228
+    second: candleFlame_Short_Loop5_58
+  - first:
+      213: -3311355433174217551
+    second: candleFlame_Short_Loop5_59
+  - first:
+      213: -6627827989885186676
+    second: candleFlame_Short_Loop5_60
+  - first:
+      213: -9174533565584542900
+    second: candleFlame_Short_Loop5_61
+  - first:
+      213: -4659293508261421307
+    second: candleFlame_Short_Loop5_62
+  - first:
+      213: 5011477186761385609
+    second: candleFlame_Short_Loop5_63
+  - first:
+      213: 5220215860571038924
+    second: candleFlame_Short_Loop5_64
+  - first:
+      213: 7587918887912179291
+    second: candleFlame_Short_Loop5_65
+  - first:
+      213: -6635651282481552263
+    second: candleFlame_Short_Loop5_66
+  - first:
+      213: 5029396649321284835
+    second: candleFlame_Short_Loop5_67
+  - first:
+      213: -6908443726265658741
+    second: candleFlame_Short_Loop5_68
+  - first:
+      213: 2450088214684135841
+    second: candleFlame_Short_Loop5_69
+  - first:
+      213: -6355717726862624326
+    second: candleFlame_Short_Loop5_70
+  - first:
+      213: 6582515370781650780
+    second: candleFlame_Short_Loop5_71
+  - first:
+      213: -6296237743962014576
+    second: candleFlame_Short_Loop5_72
+  - first:
+      213: 9217602641599790809
+    second: candleFlame_Short_Loop5_73
+  - first:
+      213: -8261307360000091907
+    second: candleFlame_Short_Loop5_74
+  - first:
+      213: 2556987533068721523
+    second: candleFlame_Short_Loop5_75
+  - first:
+      213: 4329425847233952699
+    second: candleFlame_Short_Loop5_76
+  - first:
+      213: 7868835514782283419
+    second: candleFlame_Short_Loop5_77
+  - first:
+      213: 4619593848318670661
+    second: candleFlame_Short_Loop5_78
+  - first:
+      213: 6775921716774575995
+    second: candleFlame_Short_Loop5_79
+  - first:
+      213: -5587959039113633702
+    second: candleFlame_Short_Loop5_80
+  - first:
+      213: 4869880096416827978
+    second: candleFlame_Short_Loop5_81
+  - first:
+      213: 1783347105346226154
+    second: candleFlame_Short_Loop5_82
+  - first:
+      213: 603028228379210151
+    second: candleFlame_Short_Loop5_83
+  - first:
+      213: 7151132489629625118
+    second: candleFlame_Short_Loop5_84
+  - first:
+      213: 7542487232045240367
+    second: candleFlame_Short_Loop5_85
+  - first:
+      213: 2891254597889766084
+    second: candleFlame_Short_Loop5_86
+  - first:
+      213: 6857299067272927691
+    second: candleFlame_Short_Loop5_87
+  - first:
+      213: 1014818004667192711
+    second: candleFlame_Short_Loop5_88
+  - first:
+      213: -4080923621150009511
+    second: candleFlame_Short_Loop5_89
+  - first:
+      213: 8863861186741621712
+    second: candleFlame_Short_Loop5_90
+  - first:
+      213: -4624701275393535669
+    second: candleFlame_Short_Loop5_91
+  - first:
+      213: -5896045177029428482
+    second: candleFlame_Short_Loop5_92
+  - first:
+      213: -184275733287697100
+    second: candleFlame_Short_Loop5_93
+  - first:
+      213: 5036443146657692421
+    second: candleFlame_Short_Loop5_94
+  - first:
+      213: 7276712761962032752
+    second: candleFlame_Short_Loop5_95
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: candleFlame_Short_Loop5_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3584
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ecfcad7d40a29b0800000000000000
+      internalID: -5104261902535504225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candleFlame_Short_Loop5_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 3584
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc502e79fa1c91e0800000000000000
+      internalID: -2189845659943674687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candleFlame_Short_Loop5_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3584
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e1ef359db7654f0800000000000000
+      internalID: -840348107110736228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candleFlame_Short_Loop5_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 3584
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8619d4185aef7afc0800000000000000
+      internalID: -3483535799955386008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candleFlame_Short_Loop5_4
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 3584
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac3df041d6d30680800000000000000
+      internalID: -8789945853470229344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candleFlame_Short_Loop5_5
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 3584
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b54368d1d24f1e0800000000000000
+      internalID: -2165055916029486208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candleFlame_Short_Loop5_6
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 3584
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d42687f740268a70800000000000000
+      internalID: 8828779612973966552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candleFlame_Short_Loop5_7
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 3584
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c3ec8cec8d34d90800000000000000
+      internalID: -7114604603671430076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candleFlame_Short_Loop5_8
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 3584
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ff3fea75b2c3260800000000000000
+      internalID: 7078580369916952373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candleFlame_Short_Loop5_9
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 3584
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39742a795b3cb8920800000000000000
+      internalID: 2993701562018318227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candleFlame_Short_Loop5_10
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 3584
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05360838af3fef1a0800000000000000
+      internalID: -6773708532245044400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candleFlame_Short_Loop5_11
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 3584
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb11fa51cdc0199a0800000000000000
+      internalID: -6228182670280552002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candleFlame_Short_Loop5_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3072
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6705d5761245bd8f0800000000000000
+      internalID: -514725229958967178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candleFlame_Short_Loop5_13
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 3072
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934b817a598f89c70800000000000000
+      internalID: 8978199178800313401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candleFlame_Short_Loop5_14
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3072
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39577f8da056a6330800000000000000
+      internalID: 3704884740729828755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candleFlame_Short_Loop5_15
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 3072
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1075a5ee8b14e90800000000000000
+      internalID: -7043145008373366334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candleFlame_Short_Loop5_16
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 3072
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931aecfb85dddd420800000000000000
+      internalID: 2656522728463311161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candleFlame_Short_Loop5_17
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 3072
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1471821061a8320800000000000000
+      internalID: 2560883532336939480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candleFlame_Short_Loop5_18
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 3072
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0599426d15bf09af0800000000000000
+      internalID: -391536838677587632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candleFlame_Short_Loop5_19
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 3072
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea77bb17da8490d0800000000000000
+      internalID: -3416953560779752734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candleFlame_Short_Loop5_20
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 3072
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090cbb4c869ee83a0800000000000000
+      internalID: -6661130162647875440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candleFlame_Short_Loop5_21
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 3072
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d4384ff87848190800000000000000
+      internalID: -7961089188931875520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candleFlame_Short_Loop5_22
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 3072
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7eee1438e4512400800000000000000
+      internalID: 297612406666751612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candleFlame_Short_Loop5_23
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 3072
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2bfc66d4c2f5b30800000000000000
+      internalID: 4278186881974252230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candleFlame_Short_Loop5_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2560
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc7ddf36f17811e0800000000000000
+      internalID: -2226904713287336714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candleFlame_Short_Loop5_25
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2560
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7e00dc22a3146e0800000000000000
+      internalID: -1855137650357245983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candleFlame_Short_Loop5_26
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2560
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392056692ffa6f370800000000000000
+      internalID: 8356059615072682643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candleFlame_Short_Loop5_27
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2560
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ef85a157dae2e70800000000000000
+      internalID: 9092395416172428942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candleFlame_Short_Loop5_28
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2560
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7a4b0782dca2230800000000000000
+      internalID: 3614927224491517888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candleFlame_Short_Loop5_29
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2560
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b757b05b2f4187970800000000000000
+      internalID: 8752768908446627195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candleFlame_Short_Loop5_30
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2560
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b81e6c1f03ac7c40800000000000000
+      internalID: 5511459329291458744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candleFlame_Short_Loop5_31
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 2560
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7bdeb352946dee0800000000000000
+      internalID: -1236720623398570006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candleFlame_Short_Loop5_32
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2560
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2c19da3a23b48b0800000000000000
+      internalID: -5166980468904443212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candleFlame_Short_Loop5_33
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 2560
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3fc3ce452c9b2c90800000000000000
+      internalID: -7193484295745056961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candleFlame_Short_Loop5_34
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2560
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668022ba8162acb00800000000000000
+      internalID: 849533367104964710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candleFlame_Short_Loop5_35
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 2560
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c488d9cd65aa6d50800000000000000
+      internalID: 6731374484015056067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candleFlame_Short_Loop5_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2048
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033482b9c256159f0800000000000000
+      internalID: -481492442895858896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candleFlame_Short_Loop5_37
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2048
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0200193b7ef580ab0800000000000000
+      internalID: -5041674334086561760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candleFlame_Short_Loop5_38
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2048
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1450a7326fc361f70800000000000000
+      internalID: 9157573920159302977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candleFlame_Short_Loop5_39
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2048
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd652c47d257047d0800000000000000
+      internalID: -2936218118952692001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candleFlame_Short_Loop5_40
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2048
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3a41ac695c22930800000000000000
+      internalID: 4117070260796171240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candleFlame_Short_Loop5_41
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2048
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ed0bb9357b77150800000000000000
+      internalID: 5870362209022959115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candleFlame_Short_Loop5_42
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2048
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1373ea5c25fd10f70800000000000000
+      internalID: 9151841464390399793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candleFlame_Short_Loop5_43
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 2048
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb6d2e11f96a5800800000000000000
+      internalID: 601909984521710542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candleFlame_Short_Loop5_44
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2048
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6620f67efbfca27e0800000000000000
+      internalID: -1789389478797835674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candleFlame_Short_Loop5_45
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 2048
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31374db8acf3f8f70800000000000000
+      internalID: 9191635503648371475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candleFlame_Short_Loop5_46
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2048
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9948878e54303a950800000000000000
+      internalID: 6459009889367262361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candleFlame_Short_Loop5_47
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 2048
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9bfa750c9aa7ef20800000000000000
+      internalID: 3451915226486340506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candleFlame_Short_Loop5_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a91671e2e26b1500800000000000000
+      internalID: 367996521145571747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candleFlame_Short_Loop5_49
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1536
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9dd5bcea07518a0800000000000000
+      internalID: -6335033404788188677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candleFlame_Short_Loop5_50
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1536
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e09eae7c84385d60800000000000000
+      internalID: 7879105326110118114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candleFlame_Short_Loop5_51
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1536
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f10723219563e110800000000000000
+      internalID: 1288985592392516080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candleFlame_Short_Loop5_52
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1536
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d126247fd48e280800000000000000
+      internalID: -9013868929816060557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candleFlame_Short_Loop5_53
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1536
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3365b14fce7e11d50800000000000000
+      internalID: 6706396325025109555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candleFlame_Short_Loop5_54
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1536
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7122f1b63489fd4d0800000000000000
+      internalID: -3107597802534919657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candleFlame_Short_Loop5_55
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1536
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c894ef4d5356a0320800000000000000
+      internalID: 2524941822975691148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candleFlame_Short_Loop5_56
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1536
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93f52d23022164d0800000000000000
+      internalID: -3143193667890187364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candleFlame_Short_Loop5_57
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1536
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2814257386169b0800000000000000
+      internalID: -5088671517139434765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candleFlame_Short_Loop5_58
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1536
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4efde408b7a996360800000000000000
+      internalID: 7163426537533792228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candleFlame_Short_Loop5_59
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 1536
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc479027c3bb02d0800000000000000
+      internalID: -3311355433174217551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candleFlame_Short_Loop5_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d80861f893504a0800000000000000
+      internalID: -6627827989885186676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candleFlame_Short_Loop5_61
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c437f63b4528da080800000000000000
+      internalID: -9174533565584542900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candleFlame_Short_Loop5_62
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f5bcf7d3dd65fb0800000000000000
+      internalID: -4659293508261421307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candleFlame_Short_Loop5_63
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1024
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986e2ec03f75c8540800000000000000
+      internalID: 5011477186761385609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candleFlame_Short_Loop5_64
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc46234daaee17840800000000000000
+      internalID: 5220215860571038924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candleFlame_Short_Loop5_65
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1024
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b568b7aa604bd4960800000000000000
+      internalID: 7587918887912179291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candleFlame_Short_Loop5_66
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1024
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9746256d05e69e3a0800000000000000
+      internalID: -6635651282481552263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candleFlame_Short_Loop5_67
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1024
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4c55d0b910cc540800000000000000
+      internalID: 5029396649321284835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candleFlame_Short_Loop5_68
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1024
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b82d82198074020a0800000000000000
+      internalID: -6908443726265658741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candleFlame_Short_Loop5_69
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1024
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a17e980046700220800000000000000
+      internalID: 2450088214684135841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candleFlame_Short_Loop5_70
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1024
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab933b5c664fbc7a0800000000000000
+      internalID: -6355717726862624326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candleFlame_Short_Loop5_71
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 1024
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f2df3aadac95b50800000000000000
+      internalID: 6582515370781650780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candleFlame_Short_Loop5_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09cbcb971254f98a0800000000000000
+      internalID: -6296237743962014576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candleFlame_Short_Loop5_73
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9def14df3c08bef70800000000000000
+      internalID: 9217602641599790809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candleFlame_Short_Loop5_74
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8dfd2f9b0f95d80800000000000000
+      internalID: -8261307360000091907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candleFlame_Short_Loop5_75
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37dd9a32d9e3c7320800000000000000
+      internalID: 2556987533068721523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candleFlame_Short_Loop5_76
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb36c9aed5351c30800000000000000
+      internalID: 4329425847233952699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candleFlame_Short_Loop5_77
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 512
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b967396b538b33d60800000000000000
+      internalID: 7868835514782283419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candleFlame_Short_Loop5_78
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5473d9f11281c1040800000000000000
+      internalID: 4619593848318670661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candleFlame_Short_Loop5_79
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 512
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f143aa6e8e80e50800000000000000
+      internalID: 6775921716774575995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candleFlame_Short_Loop5_80
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 512
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50e2363cd49372b0800000000000000
+      internalID: -5587959039113633702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candleFlame_Short_Loop5_81
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 512
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a8bad552a459340800000000000000
+      internalID: 4869880096416827978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candleFlame_Short_Loop5_82
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 512
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae702656eb8bfb810800000000000000
+      internalID: 1783347105346226154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candleFlame_Short_Loop5_83
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 512
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1731e8af26e5800800000000000000
+      internalID: 603028228379210151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candleFlame_Short_Loop5_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1be02a6c1ded3360800000000000000
+      internalID: 7151132489629625118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candleFlame_Short_Loop5_85
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f20d9fcfc2c4ca860800000000000000
+      internalID: 7542487232045240367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candleFlame_Short_Loop5_86
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c23f6efcbccf1820800000000000000
+      internalID: 2891254597889766084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candleFlame_Short_Loop5_87
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc99b6f8b250a2f50800000000000000
+      internalID: 6857299067272927691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candleFlame_Short_Loop5_88
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 785dbd7399b551e00800000000000000
+      internalID: 1014818004667192711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candleFlame_Short_Loop5_89
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9575ad59695ad57c0800000000000000
+      internalID: -4080923621150009511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candleFlame_Short_Loop5_90
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d35b1e59c2c20b70800000000000000
+      internalID: 8863861186741621712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candleFlame_Short_Loop5_91
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b415fd751b2c1dfb0800000000000000
+      internalID: -4624701275393535669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candleFlame_Short_Loop5_92
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa718b662a0d2ea0800000000000000
+      internalID: -5896045177029428482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candleFlame_Short_Loop5_93
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 0
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43589a86232517df0800000000000000
+      internalID: -184275733287697100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candleFlame_Short_Loop5_94
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 0
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b7bff8b5a05e540800000000000000
+      internalID: 5036443146657692421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candleFlame_Short_Loop5_95
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 0
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e6c4d04b31cf460800000000000000
+      internalID: 7276712761962032752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 1a329f9085fe7804f81200a35d808338
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      candleFlame_Short_Loop5_0: -5104261902535504225
+      candleFlame_Short_Loop5_1: -2189845659943674687
+      candleFlame_Short_Loop5_10: -6773708532245044400
+      candleFlame_Short_Loop5_11: -6228182670280552002
+      candleFlame_Short_Loop5_12: -514725229958967178
+      candleFlame_Short_Loop5_13: 8978199178800313401
+      candleFlame_Short_Loop5_14: 3704884740729828755
+      candleFlame_Short_Loop5_15: -7043145008373366334
+      candleFlame_Short_Loop5_16: 2656522728463311161
+      candleFlame_Short_Loop5_17: 2560883532336939480
+      candleFlame_Short_Loop5_18: -391536838677587632
+      candleFlame_Short_Loop5_19: -3416953560779752734
+      candleFlame_Short_Loop5_2: -840348107110736228
+      candleFlame_Short_Loop5_20: -6661130162647875440
+      candleFlame_Short_Loop5_21: -7961089188931875520
+      candleFlame_Short_Loop5_22: 297612406666751612
+      candleFlame_Short_Loop5_23: 4278186881974252230
+      candleFlame_Short_Loop5_24: -2226904713287336714
+      candleFlame_Short_Loop5_25: -1855137650357245983
+      candleFlame_Short_Loop5_26: 8356059615072682643
+      candleFlame_Short_Loop5_27: 9092395416172428942
+      candleFlame_Short_Loop5_28: 3614927224491517888
+      candleFlame_Short_Loop5_29: 8752768908446627195
+      candleFlame_Short_Loop5_3: -3483535799955386008
+      candleFlame_Short_Loop5_30: 5511459329291458744
+      candleFlame_Short_Loop5_31: -1236720623398570006
+      candleFlame_Short_Loop5_32: -5166980468904443212
+      candleFlame_Short_Loop5_33: -7193484295745056961
+      candleFlame_Short_Loop5_34: 849533367104964710
+      candleFlame_Short_Loop5_35: 6731374484015056067
+      candleFlame_Short_Loop5_36: -481492442895858896
+      candleFlame_Short_Loop5_37: -5041674334086561760
+      candleFlame_Short_Loop5_38: 9157573920159302977
+      candleFlame_Short_Loop5_39: -2936218118952692001
+      candleFlame_Short_Loop5_4: -8789945853470229344
+      candleFlame_Short_Loop5_40: 4117070260796171240
+      candleFlame_Short_Loop5_41: 5870362209022959115
+      candleFlame_Short_Loop5_42: 9151841464390399793
+      candleFlame_Short_Loop5_43: 601909984521710542
+      candleFlame_Short_Loop5_44: -1789389478797835674
+      candleFlame_Short_Loop5_45: 9191635503648371475
+      candleFlame_Short_Loop5_46: 6459009889367262361
+      candleFlame_Short_Loop5_47: 3451915226486340506
+      candleFlame_Short_Loop5_48: 367996521145571747
+      candleFlame_Short_Loop5_49: -6335033404788188677
+      candleFlame_Short_Loop5_5: -2165055916029486208
+      candleFlame_Short_Loop5_50: 7879105326110118114
+      candleFlame_Short_Loop5_51: 1288985592392516080
+      candleFlame_Short_Loop5_52: -9013868929816060557
+      candleFlame_Short_Loop5_53: 6706396325025109555
+      candleFlame_Short_Loop5_54: -3107597802534919657
+      candleFlame_Short_Loop5_55: 2524941822975691148
+      candleFlame_Short_Loop5_56: -3143193667890187364
+      candleFlame_Short_Loop5_57: -5088671517139434765
+      candleFlame_Short_Loop5_58: 7163426537533792228
+      candleFlame_Short_Loop5_59: -3311355433174217551
+      candleFlame_Short_Loop5_6: 8828779612973966552
+      candleFlame_Short_Loop5_60: -6627827989885186676
+      candleFlame_Short_Loop5_61: -9174533565584542900
+      candleFlame_Short_Loop5_62: -4659293508261421307
+      candleFlame_Short_Loop5_63: 5011477186761385609
+      candleFlame_Short_Loop5_64: 5220215860571038924
+      candleFlame_Short_Loop5_65: 7587918887912179291
+      candleFlame_Short_Loop5_66: -6635651282481552263
+      candleFlame_Short_Loop5_67: 5029396649321284835
+      candleFlame_Short_Loop5_68: -6908443726265658741
+      candleFlame_Short_Loop5_69: 2450088214684135841
+      candleFlame_Short_Loop5_7: -7114604603671430076
+      candleFlame_Short_Loop5_70: -6355717726862624326
+      candleFlame_Short_Loop5_71: 6582515370781650780
+      candleFlame_Short_Loop5_72: -6296237743962014576
+      candleFlame_Short_Loop5_73: 9217602641599790809
+      candleFlame_Short_Loop5_74: -8261307360000091907
+      candleFlame_Short_Loop5_75: 2556987533068721523
+      candleFlame_Short_Loop5_76: 4329425847233952699
+      candleFlame_Short_Loop5_77: 7868835514782283419
+      candleFlame_Short_Loop5_78: 4619593848318670661
+      candleFlame_Short_Loop5_79: 6775921716774575995
+      candleFlame_Short_Loop5_8: 7078580369916952373
+      candleFlame_Short_Loop5_80: -5587959039113633702
+      candleFlame_Short_Loop5_81: 4869880096416827978
+      candleFlame_Short_Loop5_82: 1783347105346226154
+      candleFlame_Short_Loop5_83: 603028228379210151
+      candleFlame_Short_Loop5_84: 7151132489629625118
+      candleFlame_Short_Loop5_85: 7542487232045240367
+      candleFlame_Short_Loop5_86: 2891254597889766084
+      candleFlame_Short_Loop5_87: 6857299067272927691
+      candleFlame_Short_Loop5_88: 1014818004667192711
+      candleFlame_Short_Loop5_89: -4080923621150009511
+      candleFlame_Short_Loop5_9: 2993701562018318227
+      candleFlame_Short_Loop5_90: 8863861186741621712
+      candleFlame_Short_Loop5_91: -4624701275393535669
+      candleFlame_Short_Loop5_92: -5896045177029428482
+      candleFlame_Short_Loop5_93: -184275733287697100
+      candleFlame_Short_Loop5_94: 5036443146657692421
+      candleFlame_Short_Loop5_95: 7276712761962032752
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
