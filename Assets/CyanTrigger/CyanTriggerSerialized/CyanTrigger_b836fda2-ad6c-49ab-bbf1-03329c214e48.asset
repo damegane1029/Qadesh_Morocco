@@ -15,17 +15,13 @@ MonoBehaviour:
   serializedUdonProgramAsset: {fileID: 11400000, guid: 87e2236fb6cd83d4685a86bd9af192ef,
     type: 2}
   udonAssembly: ".data_start\r\n  .export __CyanTrigger_ProgramName_SystemString\r\n 
-    .export __10_ref_SystemString\r\n  .export __11_ref_VRCUdonUdonBehaviour\r\n 
+    .export __9_ref_SystemString\r\n  .export __10_ref_VRCUdonUdonBehaviour\r\n 
     __CyanTrigger_ProgramName_SystemString: %SystemString, null\r\n  __CyanTrigger_ProgramHash_SystemString:
     %SystemString, null\r\n  __0_ra_SystemUInt32: %SystemUInt32, null\r\n  __1_ea_SystemUInt32:
-    %SystemUInt32, null\r\n  __9___jump_return_0_SystemUInt32: %SystemUInt32, null\r\n 
-    __10_ref_SystemString: %SystemString, null\r\n  __11_ref_VRCUdonUdonBehaviour:
+    %SystemUInt32, null\r\n  __9_ref_SystemString: %SystemString, null\r\n  __10_ref_VRCUdonUdonBehaviour:
     %VRCUdonUdonBehaviour, null\r\n.data_end\r\n\n.code_start\r\n  .export _interact\r\n 
-    _interact:\r\n    PUSH, __1_ea_SystemUInt32\r\n    PUSH, __9___jump_return_0_SystemUInt32\r\n   
-    JUMP, 0x00000034\r\n    PUSH, __0_ra_SystemUInt32\r\n    COPY\r\n    JUMP_INDIRECT,
-    __0_ra_SystemUInt32\r\n\r\n  .export __intern_event_0_debug_execute\r\n  __intern_event_0_debug_execute:\r\n   
-    PUSH, __1_ea_SystemUInt32\r\n    PUSH, __11_ref_VRCUdonUdonBehaviour\r\n    PUSH,
-    __10_ref_SystemString\r\n    EXTERN, \"VRCUdonCommonInterfacesIUdonEventReceiver.__SendCustomEvent__SystemString__SystemVoid\"\r\n   
+    _interact:\r\n    PUSH, __1_ea_SystemUInt32\r\n    PUSH, __10_ref_VRCUdonUdonBehaviour\r\n   
+    PUSH, __9_ref_SystemString\r\n    EXTERN, \"VRCUdonCommonInterfacesIUdonEventReceiver.__SendCustomEvent__SystemString__SystemVoid\"\r\n   
     PUSH, __0_ra_SystemUInt32\r\n    COPY\r\n    JUMP_INDIRECT, __0_ra_SystemUInt32\r\n\r\n.code_end\r\n"
   assemblyError: 
   triggerHash: DD11F73ADCB805A5CCA41E46B2A8797B
@@ -99,14 +95,14 @@ MonoBehaviour:
     ignoreEventWarnings: 0
   publicVariableReferences:
     actionDataIndices:
-    - symbolName: __10_ref_SystemString
+    - symbolName: __9_ref_SystemString
       type:
         typeDef: System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
       eventIndex: 0
       actionIndex: 0
       variableIndex: 1
       multiVariableIndex: -1
-    - symbolName: __11_ref_VRCUdonUdonBehaviour
+    - symbolName: __10_ref_VRCUdonUdonBehaviour
       type:
         typeDef: VRC.Udon.Common.Interfaces.IUdonEventReceiver, VRC.Udon.Common,
           Version=1.0.0.0, Culture=neutral, PublicKeyToken=null

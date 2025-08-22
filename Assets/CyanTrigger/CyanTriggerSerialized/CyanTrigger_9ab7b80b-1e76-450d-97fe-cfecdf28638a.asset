@@ -17,59 +17,47 @@ MonoBehaviour:
   udonAssembly: ".data_start\r\n  .export __CyanTrigger_ProgramName_SystemString\r\n 
     .export shisha_bool_true\r\n  .sync shisha_bool_true, none\r\n  .export _old_shisha_bool_true\r\n 
     .export shisha_bool_false\r\n  .sync shisha_bool_false, none\r\n  .export _old_shisha_bool_false\r\n 
-    .export __18_ref_UnityEngineGameObject\r\n  .export __19_ref_UnityEngineGameObject\r\n 
-    .export __21_ref_UnityEngineGameObject\r\n  __CyanTrigger_ProgramName_SystemString:
+    .export __16_ref_UnityEngineGameObject\r\n  .export __17_ref_UnityEngineGameObject\r\n 
+    .export __18_ref_UnityEngineGameObject\r\n  __CyanTrigger_ProgramName_SystemString:
     %SystemString, null\r\n  __CyanTrigger_ProgramHash_SystemString: %SystemString,
     null\r\n  __0_ra_SystemUInt32: %SystemUInt32, null\r\n  __1_ea_SystemUInt32:
     %SystemUInt32, null\r\n  _this_gameobject: %UnityEngineGameObject, this\r\n 
     _this_udonbehaviour: %VRCUdonUdonBehaviour, this\r\n  _this_local_player: %VRCSDKBaseVRCPlayerApi,
     null\r\n  shisha_bool_true: %SystemBoolean, null\r\n  _old_shisha_bool_true:
     %SystemBoolean, null\r\n  shisha_bool_false: %SystemBoolean, null\r\n  _old_shisha_bool_false:
-    %SystemBoolean, null\r\n  __13___jump_return_0_SystemUInt32: %SystemUInt32, null\r\n 
-    __14_temp_SystemBoolean: %SystemBoolean, null\r\n  __15___jump_return_1_SystemUInt32:
-    %SystemUInt32, null\r\n  __16___jump_return_2_SystemUInt32: %SystemUInt32, null\r\n 
-    __17___jump_return_3_SystemUInt32: %SystemUInt32, null\r\n  __18_ref_UnityEngineGameObject:
-    %UnityEngineGameObject, null\r\n  __19_ref_UnityEngineGameObject: %UnityEngineGameObject,
-    null\r\n  __20___jump_return_4_SystemUInt32: %SystemUInt32, null\r\n  __21_ref_UnityEngineGameObject:
-    %UnityEngineGameObject, null\r\n  __22_lp_init_SystemBoolean_ct_intern: %SystemBoolean,
-    null\r\n  __23_const_SystemBoolean: %SystemBoolean, null\r\n.data_end\r\n\n.code_start\r\n 
+    %SystemBoolean, null\r\n  __13_temp_SystemBoolean: %SystemBoolean, null\r\n 
+    __14___jump_return_0_SystemUInt32: %SystemUInt32, null\r\n  __15___jump_return_1_SystemUInt32:
+    %SystemUInt32, null\r\n  __16_ref_UnityEngineGameObject: %UnityEngineGameObject,
+    null\r\n  __17_ref_UnityEngineGameObject: %UnityEngineGameObject, null\r\n  __18_ref_UnityEngineGameObject:
+    %UnityEngineGameObject, null\r\n  __19_lp_init_SystemBoolean_ct_intern: %SystemBoolean,
+    null\r\n  __20_const_SystemBoolean: %SystemBoolean, null\r\n.data_end\r\n\n.code_start\r\n 
     .export _onPickupUseUp\r\n  _onPickupUseUp:\r\n    PUSH, __1_ea_SystemUInt32\r\n   
-    PUSH, __13___jump_return_0_SystemUInt32\r\n    JUMP, 0x00000034\r\n    PUSH,
-    __0_ra_SystemUInt32\r\n    COPY\r\n    JUMP_INDIRECT, __0_ra_SystemUInt32\r\n\r\n 
-    .export __intern_event_0_debug_execute\r\n  __intern_event_0_debug_execute:\r\n   
-    PUSH, __1_ea_SystemUInt32\r\n    PUSH, __22_lp_init_SystemBoolean_ct_intern\r\n   
-    JUMP_IF_FALSE, 0x00000068\r\n    PUSH, __23_const_SystemBoolean\r\n    PUSH,
-    __22_lp_init_SystemBoolean_ct_intern\r\n    COPY\r\n    PUSH, _this_local_player\r\n   
-    EXTERN, \"VRCSDKBaseNetworking.__get_LocalPlayer__VRCSDKBaseVRCPlayerApi\"\r\n   
+    PUSH, __19_lp_init_SystemBoolean_ct_intern\r\n    JUMP_IF_FALSE, 0x0000003C\r\n   
+    PUSH, __20_const_SystemBoolean\r\n    PUSH, __19_lp_init_SystemBoolean_ct_intern\r\n   
+    COPY\r\n    PUSH, _this_local_player\r\n    EXTERN, \"VRCSDKBaseNetworking.__get_LocalPlayer__VRCSDKBaseVRCPlayerApi\"\r\n   
     PUSH, _this_local_player\r\n    PUSH, _this_gameobject\r\n    EXTERN, \"VRCSDKBaseNetworking.__SetOwner__VRCSDKBaseVRCPlayerApi_UnityEngineGameObject__SystemVoid\"\r\n   
     PUSH, shisha_bool_true\r\n    PUSH, shisha_bool_true\r\n    EXTERN, \"SystemBoolean.__op_UnaryNegation__SystemBoolean__SystemBoolean\"\r\n   
-    PUSH, _old_shisha_bool_true\r\n    PUSH, shisha_bool_true\r\n    PUSH, __14_temp_SystemBoolean\r\n   
+    PUSH, _old_shisha_bool_true\r\n    PUSH, shisha_bool_true\r\n    PUSH, __13_temp_SystemBoolean\r\n   
     EXTERN, \"SystemBoolean.__op_Inequality__SystemBoolean_SystemBoolean__SystemBoolean\"\r\n   
-    PUSH, __14_temp_SystemBoolean\r\n    JUMP_IF_FALSE, 0x000000D8\r\n    PUSH, __15___jump_return_1_SystemUInt32\r\n   
-    JUMP, 0x0000015C\r\n    PUSH, shisha_bool_false\r\n    PUSH, shisha_bool_false\r\n   
+    PUSH, __13_temp_SystemBoolean\r\n    JUMP_IF_FALSE, 0x000000AC\r\n    PUSH, __14___jump_return_0_SystemUInt32\r\n   
+    JUMP, 0x00000130\r\n    PUSH, shisha_bool_false\r\n    PUSH, shisha_bool_false\r\n   
     EXTERN, \"SystemBoolean.__op_UnaryNegation__SystemBoolean__SystemBoolean\"\r\n   
-    PUSH, _old_shisha_bool_false\r\n    PUSH, shisha_bool_false\r\n    PUSH, __14_temp_SystemBoolean\r\n   
+    PUSH, _old_shisha_bool_false\r\n    PUSH, shisha_bool_false\r\n    PUSH, __13_temp_SystemBoolean\r\n   
     EXTERN, \"SystemBoolean.__op_Inequality__SystemBoolean_SystemBoolean__SystemBoolean\"\r\n   
-    PUSH, __14_temp_SystemBoolean\r\n    JUMP_IF_FALSE, 0x00000130\r\n    PUSH, __16___jump_return_2_SystemUInt32\r\n   
-    JUMP, 0x000001E8\r\n    PUSH, _this_udonbehaviour\r\n    EXTERN, \"VRCUdonCommonInterfacesIUdonEventReceiver.__RequestSerialization__SystemVoid\"\r\n   
+    PUSH, __13_temp_SystemBoolean\r\n    JUMP_IF_FALSE, 0x00000104\r\n    PUSH, __15___jump_return_1_SystemUInt32\r\n   
+    JUMP, 0x00000190\r\n    PUSH, _this_udonbehaviour\r\n    EXTERN, \"VRCUdonCommonInterfacesIUdonEventReceiver.__RequestSerialization__SystemVoid\"\r\n   
     PUSH, __0_ra_SystemUInt32\r\n    COPY\r\n    JUMP_INDIRECT, __0_ra_SystemUInt32\r\n\r\n 
     .export _onVarChange_shisha_bool_true\r\n  _onVarChange_shisha_bool_true:\r\n   
-    PUSH, __1_ea_SystemUInt32\r\n    PUSH, __17___jump_return_3_SystemUInt32\r\n   
-    JUMP, 0x0000019C\r\n    PUSH, shisha_bool_true\r\n    PUSH, _old_shisha_bool_true\r\n   
-    COPY\r\n    PUSH, __0_ra_SystemUInt32\r\n    COPY\r\n    JUMP_INDIRECT, __0_ra_SystemUInt32\r\n\r\n 
-    .export __intern_event_1_debug_execute\r\n  __intern_event_1_debug_execute:\r\n   
-    PUSH, __1_ea_SystemUInt32\r\n    PUSH, __18_ref_UnityEngineGameObject\r\n   
+    PUSH, __1_ea_SystemUInt32\r\n    PUSH, __16_ref_UnityEngineGameObject\r\n   
     PUSH, shisha_bool_true\r\n    EXTERN, \"UnityEngineGameObject.__SetActive__SystemBoolean__SystemVoid\"\r\n   
-    PUSH, __19_ref_UnityEngineGameObject\r\n    PUSH, shisha_bool_true\r\n    EXTERN,
+    PUSH, __17_ref_UnityEngineGameObject\r\n    PUSH, shisha_bool_true\r\n    EXTERN,
     \"UnityEngineGameObject.__SetActive__SystemBoolean__SystemVoid\"\r\n    PUSH,
+    shisha_bool_true\r\n    PUSH, _old_shisha_bool_true\r\n    COPY\r\n    PUSH,
     __0_ra_SystemUInt32\r\n    COPY\r\n    JUMP_INDIRECT, __0_ra_SystemUInt32\r\n\r\n 
     .export _onVarChange_shisha_bool_false\r\n  _onVarChange_shisha_bool_false:\r\n   
-    PUSH, __1_ea_SystemUInt32\r\n    PUSH, __20___jump_return_4_SystemUInt32\r\n   
-    JUMP, 0x00000228\r\n    PUSH, shisha_bool_false\r\n    PUSH, _old_shisha_bool_false\r\n   
-    COPY\r\n    PUSH, __0_ra_SystemUInt32\r\n    COPY\r\n    JUMP_INDIRECT, __0_ra_SystemUInt32\r\n\r\n 
-    .export __intern_event_2_debug_execute\r\n  __intern_event_2_debug_execute:\r\n   
-    PUSH, __1_ea_SystemUInt32\r\n    PUSH, __21_ref_UnityEngineGameObject\r\n   
+    PUSH, __1_ea_SystemUInt32\r\n    PUSH, __18_ref_UnityEngineGameObject\r\n   
     PUSH, shisha_bool_false\r\n    EXTERN, \"UnityEngineGameObject.__SetActive__SystemBoolean__SystemVoid\"\r\n   
+    PUSH, shisha_bool_false\r\n    PUSH, _old_shisha_bool_false\r\n    COPY\r\n   
     PUSH, __0_ra_SystemUInt32\r\n    COPY\r\n    JUMP_INDIRECT, __0_ra_SystemUInt32\r\n\r\n.code_end\r\n"
   assemblyError: 
   triggerHash: 29CA369C7BE72038D3109F3E6F73128A
@@ -305,7 +293,7 @@ MonoBehaviour:
     ignoreEventWarnings: 0
   publicVariableReferences:
     actionDataIndices:
-    - symbolName: __18_ref_UnityEngineGameObject
+    - symbolName: __16_ref_UnityEngineGameObject
       type:
         typeDef: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
           Culture=neutral, PublicKeyToken=null
@@ -313,7 +301,7 @@ MonoBehaviour:
       actionIndex: 0
       variableIndex: 0
       multiVariableIndex: 0
-    - symbolName: __19_ref_UnityEngineGameObject
+    - symbolName: __17_ref_UnityEngineGameObject
       type:
         typeDef: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
           Culture=neutral, PublicKeyToken=null
@@ -321,7 +309,7 @@ MonoBehaviour:
       actionIndex: 0
       variableIndex: 0
       multiVariableIndex: 1
-    - symbolName: __21_ref_UnityEngineGameObject
+    - symbolName: __18_ref_UnityEngineGameObject
       type:
         typeDef: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
           Culture=neutral, PublicKeyToken=null

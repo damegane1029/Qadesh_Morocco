@@ -56,17 +56,62 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Assets\00_common\8K Skybox Pack Free\Example Scenes\Script\RotateCamera.cs" />
+    <Compile Include="Assets\mizusashi\myxyLiquidGlass\UdonSharpScripts\Glass.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextEventHandler.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexShakeA.cs" />
     <Compile Include="Assets\UdonSharp\UtilityScripts\InteractToggle.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_ExampleScript_01.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMPro_InstructionOverlay.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexShakeB.cs" />
+    <Compile Include="Assets\QADESH_hongkong\colorilab\entrance\EntranceSwitch.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\DropdownSample.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexColorCycler.cs" />
+    <Compile Include="Assets\QADESH_hongkong\colorilab\AutoDoor\AutoDoorEnter.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\EnvMapAnimator.cs" />
+    <Compile Include="Assets\QADESH_hongkong\colorilab\elevator\ElevatorSwitch.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextSelector_A.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01_UGUI.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\SimpleScript.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark04.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ChatController.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ObjectSpin.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_PhoneNumberValidator.cs" />
+    <Compile Include="Assets\QADESH_hongkong\colorilab\BGMArea.cs" />
+    <Compile Include="Assets\mizusashi\myxyLiquidGlass\Template\Template.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexJitter.cs" />
+    <Compile Include="Assets\mizusashi\myxyLiquidGlass\Sample_UdonProgramSources\SetActiveButton.cs" />
     <Compile Include="Assets\02_system\colorilab\QadeshCommonGimicks\QadeshCommonTeleporter\udon\QadeshCommonTeleporter.cs" />
     <Compile Include="Assets\UdonSharp\UtilityScripts\Synced\MasterToggleObject.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_DigitValidator.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_FrameRateCounter.cs" />
     <Compile Include="Assets\01_mesh\OfficeAndPoliceStation\Scripts\LightFlicker.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TextConsoleSimulator.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TeleType.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextEventCheck.cs" />
+    <Compile Include="Assets\QADESH_hongkong\colorilab\StaffWarp.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_UiFrameRateCounter.cs" />
+    <Compile Include="Assets\QADESH_hongkong\colorilab\BGMFilter.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TextMeshSpawner.cs" />
     <Compile Include="Assets\UdonSharp\UtilityScripts\PlayerModSetter.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexZoom.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark02.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextSelector_B.cs" />
     <Compile Include="Assets\01_mesh\OfficeAndPoliceStation\Scripts\LightOptimize.cs" />
     <Compile Include="Assets\UdonSharp\UtilityScripts\BoneFollower.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\SkewTextExample.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\WarpTextExample.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TextMeshProFloatingText.cs" />
     <Compile Include="Assets\UdonSharp\UtilityScripts\TrackingDataFollower.cs" />
+    <Compile Include="Assets\QADESH_hongkong\damegane_add_item\VirtualFoxDesignStudio\Lura&apos;sSwitch(Udon)\SCRIPT\LurasSwitch.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ShaderPropAnimator.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\CameraController.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark03.cs" />
+    <Compile Include="Assets\mizusashi\myxyLiquidGlass\UdonSharpScripts\GlassPickup.cs" />
     <Compile Include="Assets\UdonSharp\UtilityScripts\WorldAudioSettings.cs" />
     <Compile Include="Assets\UdonSharp\UtilityScripts\Synced\GlobalToggleObject.cs" />
     <Compile Include="Assets\02_system\colorilab\QadeshCommonGimicks\QadeshCommonTeleporter\udon\FadeEvent.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextInfoDebugTool.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\01_mesh\icepail\oy_GlassSphere.shader" />
@@ -74,7 +119,9 @@
     <None Include="Assets\03_particle\candle_flames\candleFlame_loopPlanes\candleFlames_materials\billboard_fixY.shader" />
     <None Include="Assets\Samples\CyanTrigger\4.4.5\ExamplesAndPrefabs\Shaders\UnlitDoubleSidedOverlay.shader" />
     <None Include="Assets\Shader\Standard_Culloff.shader" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMPro_Properties.cginc" />
     <None Include="Assets\Toon\Shader\Toon_ShadingGradeMap_AngelRing.shader" />
+    <None Include="Assets\QADESH_hongkong\colorilab\TsubokuLab\Shaders\ChaperoneShader\ChaperoneShader.shader" />
     <None Include="Assets\01_mesh\osake\oy_GlassSphere.shader" />
     <None Include="Assets\UdonSharp\UtilityScripts\ExampleUtilityTemplate.txt" />
     <None Include="Assets\01_mesh\食器・小物類\キルコイン\StandardKS.shader" />
@@ -82,6 +129,7 @@
     <None Include="Assets\Toon\Shader\UCTS_Outline.cginc" />
     <None Include="Assets\01_mesh\Komuso\Shisha\README.txt" />
     <None Include="Assets\Toon\Shader\UCTS_ShadowCaster.cginc" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

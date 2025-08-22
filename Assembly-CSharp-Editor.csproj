@@ -56,9 +56,12 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Assets\Toon\Editor\CopyMaterialParameter.cs" />
+    <Compile Include="Assets\mizusashi\myxyLiquidGlass\Template\Editor\TemplateEditor.cs" />
     <Compile Include="Assets\Toon\Editor\UTS2GUI.cs" />
     <Compile Include="Assets\Toon\Editor\RemoveUnusedShaderKeywordsFromUTS2Material.cs" />
+    <Compile Include="Assets\mizusashi\myxyLiquidGlass\Editor\SwitchPlatform.cs" />
     <Compile Include="Assets\01_mesh\OfficeAndPoliceStation\Scripts\Editor\AutoSnap.cs" />
+    <Compile Include="Assets\mizusashi\myxyLiquidGlass\Editor\RefreshGlass.cs" />
     <Compile Include="Assets\Toon\Editor\RemoveUnusedMaterialProperties.cs" />
   </ItemGroup>
   <ItemGroup>
