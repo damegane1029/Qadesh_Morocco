@@ -15,54 +15,61 @@ MonoBehaviour:
   serializedUdonProgramAsset: {fileID: 11400000, guid: 8f0391c813f4c364e8e9232b2d5da765,
     type: 2}
   udonAssembly: ".data_start\r\n  .export __CyanTrigger_ProgramName_SystemString\r\n 
-    .export __16_ref_UnityEngineGameObject\r\n  .export __17_ref_SystemBoolean\r\n 
-    .export __18_ref_UnityEngineGameObject\r\n  .export __19_ref_UnityEngineGameObject\r\n 
-    .export __22_ref_UnityEngineGameObject\r\n  .export __23_ref_SystemBoolean\r\n 
+    .export __17_ref_UnityEngineGameObject\r\n  .export __18_ref_SystemBoolean\r\n 
+    .export __19_ref_UnityEngineGameObject\r\n  .export __20_ref_UnityEngineGameObject\r\n 
+    .export __24_ref_UnityEngineGameObject\r\n  .export __25_ref_SystemBoolean\r\n 
     __CyanTrigger_ProgramName_SystemString: %SystemString, null\r\n  __CyanTrigger_ProgramHash_SystemString:
     %SystemString, null\r\n  __0_ra_SystemUInt32: %SystemUInt32, null\r\n  __1_ea_SystemUInt32:
     %SystemUInt32, null\r\n  _this_gameobject: %UnityEngineGameObject, this\r\n 
     _this_udonbehaviour: %VRCUdonUdonBehaviour, this\r\n  __2_bc_SystemUInt32: %SystemUInt32,
-    null\r\n  __10_const_SystemUInt32: %SystemUInt32, null\r\n  __11_temp_SystemBoolean:
-    %SystemBoolean, null\r\n  __12_const_SystemString: %SystemString, null\r\n  __13_const_VRCUdonCommonInterfacesNetworkEventTarget:
-    %VRCUdonCommonInterfacesNetworkEventTarget, null\r\n  __14_const_SystemString:
-    %SystemString, null\r\n  __15_const_SystemUInt32: %SystemUInt32, null\r\n  __16_ref_UnityEngineGameObject:
-    %UnityEngineGameObject, null\r\n  __17_ref_SystemBoolean: %SystemBoolean, null\r\n 
-    __18_ref_UnityEngineGameObject: %UnityEngineGameObject, null\r\n  __19_ref_UnityEngineGameObject:
-    %UnityEngineGameObject, null\r\n  __20_temp_SystemBoolean: %SystemBoolean, null\r\n 
-    __21_const_SystemString: %SystemString, null\r\n  __22_ref_UnityEngineGameObject:
-    %UnityEngineGameObject, null\r\n  __23_ref_SystemBoolean: %SystemBoolean, null\r\n.data_end\r\n\n.code_start\r\n 
+    null\r\n  __10___jump_return_0_SystemUInt32: %SystemUInt32, null\r\n  __11_const_SystemUInt32:
+    %SystemUInt32, null\r\n  __12_temp_SystemBoolean: %SystemBoolean, null\r\n  __13_const_SystemString:
+    %SystemString, null\r\n  __14_const_VRCUdonCommonInterfacesNetworkEventTarget:
+    %VRCUdonCommonInterfacesNetworkEventTarget, null\r\n  __15_const_SystemString:
+    %SystemString, null\r\n  __16_const_SystemUInt32: %SystemUInt32, null\r\n  __17_ref_UnityEngineGameObject:
+    %UnityEngineGameObject, null\r\n  __18_ref_SystemBoolean: %SystemBoolean, null\r\n 
+    __19_ref_UnityEngineGameObject: %UnityEngineGameObject, null\r\n  __20_ref_UnityEngineGameObject:
+    %UnityEngineGameObject, null\r\n  __21___jump_return_1_SystemUInt32: %SystemUInt32,
+    null\r\n  __22_temp_SystemBoolean: %SystemBoolean, null\r\n  __23_const_SystemString:
+    %SystemString, null\r\n  __24_ref_UnityEngineGameObject: %UnityEngineGameObject,
+    null\r\n  __25_ref_SystemBoolean: %SystemBoolean, null\r\n.data_end\r\n\n.code_start\r\n 
     .export _interact\r\n  _interact:\r\n    PUSH, __1_ea_SystemUInt32\r\n    PUSH,
-    __2_bc_SystemUInt32\r\n    PUSH, __10_const_SystemUInt32\r\n    PUSH, __11_temp_SystemBoolean\r\n   
-    EXTERN, \"SystemUInt32.__op_GreaterThan__SystemUInt32_SystemUInt32__SystemBoolean\"\r\n   
-    PUSH, __11_temp_SystemBoolean\r\n    JUMP_IF_FALSE, 0x00000050\r\n    PUSH, __12_const_SystemString\r\n   
+    __10___jump_return_0_SystemUInt32\r\n    JUMP, 0x00000044\r\n    PUSH, __21___jump_return_1_SystemUInt32\r\n   
+    JUMP, 0x0000016C\r\n    PUSH, __0_ra_SystemUInt32\r\n    COPY\r\n    JUMP_INDIRECT,
+    __0_ra_SystemUInt32\r\n\r\n  .export __intern_event_0_debug_execute\r\n  __intern_event_0_debug_execute:\r\n   
+    PUSH, __1_ea_SystemUInt32\r\n    PUSH, __2_bc_SystemUInt32\r\n    PUSH, __11_const_SystemUInt32\r\n   
+    PUSH, __12_temp_SystemBoolean\r\n    EXTERN, \"SystemUInt32.__op_GreaterThan__SystemUInt32_SystemUInt32__SystemBoolean\"\r\n   
+    PUSH, __12_temp_SystemBoolean\r\n    JUMP_IF_FALSE, 0x0000008C\r\n    PUSH, __13_const_SystemString\r\n   
     PUSH, _this_gameobject\r\n    EXTERN, \"UnityEngineDebug.__LogError__SystemObject_UnityEngineObject__SystemVoid\"\r\n   
-    PUSH, _this_udonbehaviour\r\n    PUSH, __13_const_VRCUdonCommonInterfacesNetworkEventTarget\r\n   
-    PUSH, __14_const_SystemString\r\n    EXTERN, \"VRCUdonCommonInterfacesIUdonEventReceiver.__SendCustomNetworkEvent__VRCUdonCommonInterfacesNetworkEventTarget_SystemString__SystemVoid\"\r\n   
-    PUSH, __2_bc_SystemUInt32\r\n    PUSH, __10_const_SystemUInt32\r\n    PUSH, __20_temp_SystemBoolean\r\n   
-    EXTERN, \"SystemUInt32.__op_GreaterThan__SystemUInt32_SystemUInt32__SystemBoolean\"\r\n   
-    PUSH, __20_temp_SystemBoolean\r\n    JUMP_IF_FALSE, 0x000000B8\r\n    PUSH, __12_const_SystemString\r\n   
-    PUSH, _this_gameobject\r\n    EXTERN, \"UnityEngineDebug.__LogError__SystemObject_UnityEngineObject__SystemVoid\"\r\n   
-    PUSH, _this_udonbehaviour\r\n    PUSH, __13_const_VRCUdonCommonInterfacesNetworkEventTarget\r\n   
-    PUSH, __21_const_SystemString\r\n    EXTERN, \"VRCUdonCommonInterfacesIUdonEventReceiver.__SendCustomNetworkEvent__VRCUdonCommonInterfacesNetworkEventTarget_SystemString__SystemVoid\"\r\n   
+    PUSH, _this_udonbehaviour\r\n    PUSH, __14_const_VRCUdonCommonInterfacesNetworkEventTarget\r\n   
+    PUSH, __15_const_SystemString\r\n    EXTERN, \"VRCUdonCommonInterfacesIUdonEventReceiver.__SendCustomNetworkEvent__VRCUdonCommonInterfacesNetworkEventTarget_SystemString__SystemVoid\"\r\n   
     PUSH, __0_ra_SystemUInt32\r\n    COPY\r\n    JUMP_INDIRECT, __0_ra_SystemUInt32\r\n\r\n 
     .export intern_event_0_networked_actions\r\n  intern_event_0_networked_actions:\r\n   
-    PUSH, __1_ea_SystemUInt32\r\n    PUSH, __2_bc_SystemUInt32\r\n    PUSH, __15_const_SystemUInt32\r\n   
+    PUSH, __1_ea_SystemUInt32\r\n    PUSH, __2_bc_SystemUInt32\r\n    PUSH, __16_const_SystemUInt32\r\n   
     PUSH, __2_bc_SystemUInt32\r\n    EXTERN, \"SystemUInt32.__op_Addition__SystemUInt32_SystemUInt32__SystemUInt32\"\r\n   
-    PUSH, __16_ref_UnityEngineGameObject\r\n    PUSH, __17_ref_SystemBoolean\r\n   
+    PUSH, __17_ref_UnityEngineGameObject\r\n    PUSH, __18_ref_SystemBoolean\r\n   
     EXTERN, \"UnityEngineGameObject.__SetActive__SystemBoolean__SystemVoid\"\r\n   
-    PUSH, __18_ref_UnityEngineGameObject\r\n    PUSH, __17_ref_SystemBoolean\r\n   
+    PUSH, __19_ref_UnityEngineGameObject\r\n    PUSH, __18_ref_SystemBoolean\r\n   
     EXTERN, \"UnityEngineGameObject.__SetActive__SystemBoolean__SystemVoid\"\r\n   
-    PUSH, __19_ref_UnityEngineGameObject\r\n    PUSH, __17_ref_SystemBoolean\r\n   
+    PUSH, __20_ref_UnityEngineGameObject\r\n    PUSH, __18_ref_SystemBoolean\r\n   
     EXTERN, \"UnityEngineGameObject.__SetActive__SystemBoolean__SystemVoid\"\r\n   
-    PUSH, __2_bc_SystemUInt32\r\n    PUSH, __15_const_SystemUInt32\r\n    PUSH, __2_bc_SystemUInt32\r\n   
+    PUSH, __2_bc_SystemUInt32\r\n    PUSH, __16_const_SystemUInt32\r\n    PUSH, __2_bc_SystemUInt32\r\n   
     EXTERN, \"SystemUInt32.__op_Subtraction__SystemUInt32_SystemUInt32__SystemUInt32\"\r\n   
     PUSH, __0_ra_SystemUInt32\r\n    COPY\r\n    JUMP_INDIRECT, __0_ra_SystemUInt32\r\n\r\n 
+    .export __intern_event_1_debug_execute\r\n  __intern_event_1_debug_execute:\r\n   
+    PUSH, __1_ea_SystemUInt32\r\n    PUSH, __2_bc_SystemUInt32\r\n    PUSH, __11_const_SystemUInt32\r\n   
+    PUSH, __22_temp_SystemBoolean\r\n    EXTERN, \"SystemUInt32.__op_GreaterThan__SystemUInt32_SystemUInt32__SystemBoolean\"\r\n   
+    PUSH, __22_temp_SystemBoolean\r\n    JUMP_IF_FALSE, 0x000001B4\r\n    PUSH, __13_const_SystemString\r\n   
+    PUSH, _this_gameobject\r\n    EXTERN, \"UnityEngineDebug.__LogError__SystemObject_UnityEngineObject__SystemVoid\"\r\n   
+    PUSH, _this_udonbehaviour\r\n    PUSH, __14_const_VRCUdonCommonInterfacesNetworkEventTarget\r\n   
+    PUSH, __23_const_SystemString\r\n    EXTERN, \"VRCUdonCommonInterfacesIUdonEventReceiver.__SendCustomNetworkEvent__VRCUdonCommonInterfacesNetworkEventTarget_SystemString__SystemVoid\"\r\n   
+    PUSH, __0_ra_SystemUInt32\r\n    COPY\r\n    JUMP_INDIRECT, __0_ra_SystemUInt32\r\n\r\n 
     .export intern_event_1_networked_actions\r\n  intern_event_1_networked_actions:\r\n   
-    PUSH, __1_ea_SystemUInt32\r\n    PUSH, __2_bc_SystemUInt32\r\n    PUSH, __15_const_SystemUInt32\r\n   
+    PUSH, __1_ea_SystemUInt32\r\n    PUSH, __2_bc_SystemUInt32\r\n    PUSH, __16_const_SystemUInt32\r\n   
     PUSH, __2_bc_SystemUInt32\r\n    EXTERN, \"SystemUInt32.__op_Addition__SystemUInt32_SystemUInt32__SystemUInt32\"\r\n   
-    PUSH, __22_ref_UnityEngineGameObject\r\n    PUSH, __23_ref_SystemBoolean\r\n   
+    PUSH, __24_ref_UnityEngineGameObject\r\n    PUSH, __25_ref_SystemBoolean\r\n   
     EXTERN, \"UnityEngineGameObject.__SetActive__SystemBoolean__SystemVoid\"\r\n   
-    PUSH, __2_bc_SystemUInt32\r\n    PUSH, __15_const_SystemUInt32\r\n    PUSH, __2_bc_SystemUInt32\r\n   
+    PUSH, __2_bc_SystemUInt32\r\n    PUSH, __16_const_SystemUInt32\r\n    PUSH, __2_bc_SystemUInt32\r\n   
     EXTERN, \"SystemUInt32.__op_Subtraction__SystemUInt32_SystemUInt32__SystemUInt32\"\r\n   
     PUSH, __0_ra_SystemUInt32\r\n    COPY\r\n    JUMP_INDIRECT, __0_ra_SystemUInt32\r\n\r\n.code_end\r\n"
   assemblyError: 
@@ -188,7 +195,7 @@ MonoBehaviour:
     ignoreEventWarnings: 0
   publicVariableReferences:
     actionDataIndices:
-    - symbolName: __16_ref_UnityEngineGameObject
+    - symbolName: __17_ref_UnityEngineGameObject
       type:
         typeDef: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
           Culture=neutral, PublicKeyToken=null
@@ -196,21 +203,13 @@ MonoBehaviour:
       actionIndex: 0
       variableIndex: 0
       multiVariableIndex: 0
-    - symbolName: __17_ref_SystemBoolean
+    - symbolName: __18_ref_SystemBoolean
       type:
         typeDef: System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
       eventIndex: 0
       actionIndex: 0
       variableIndex: 1
       multiVariableIndex: -1
-    - symbolName: __18_ref_UnityEngineGameObject
-      type:
-        typeDef: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
-          Culture=neutral, PublicKeyToken=null
-      eventIndex: 0
-      actionIndex: 0
-      variableIndex: 0
-      multiVariableIndex: 1
     - symbolName: __19_ref_UnityEngineGameObject
       type:
         typeDef: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
@@ -218,8 +217,16 @@ MonoBehaviour:
       eventIndex: 0
       actionIndex: 0
       variableIndex: 0
+      multiVariableIndex: 1
+    - symbolName: __20_ref_UnityEngineGameObject
+      type:
+        typeDef: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+      eventIndex: 0
+      actionIndex: 0
+      variableIndex: 0
       multiVariableIndex: 2
-    - symbolName: __22_ref_UnityEngineGameObject
+    - symbolName: __24_ref_UnityEngineGameObject
       type:
         typeDef: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
           Culture=neutral, PublicKeyToken=null
@@ -227,7 +234,7 @@ MonoBehaviour:
       actionIndex: 0
       variableIndex: 0
       multiVariableIndex: 0
-    - symbolName: __23_ref_SystemBoolean
+    - symbolName: __25_ref_SystemBoolean
       type:
         typeDef: System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
       eventIndex: 1
