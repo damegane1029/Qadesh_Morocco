@@ -69,10 +69,13 @@
     <Compile Include="Assets\QADESH_hongkong\colorilab\AutoDoor\AutoDoorEnter.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\EnvMapAnimator.cs" />
     <Compile Include="Assets\QADESH_hongkong\colorilab\elevator\ElevatorSwitch.cs" />
+    <Compile Include="Assets\02_system\Luvdelic\EnterDisplaySystem\resource\EnterDisplayArea.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextSelector_A.cs" />
+    <Compile Include="Assets\02_system\Luvdelic\EnterDisplaySystem\resource\EnterResetArea.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01_UGUI.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\SimpleScript.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark04.cs" />
+    <Compile Include="Assets\02_system\Luvdelic\EnterDisplaySystem\resource\EnterDisplay.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ChatController.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ObjectSpin.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_PhoneNumberValidator.cs" />
@@ -115,6 +118,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\01_mesh\icepail\oy_GlassSphere.shader" />
+    <None Include="Assets\02_system\Luvdelic\EnterDisplaySystem\resource\UIOverlay.shader" />
     <None Include="Assets\02_system\colorilab\QadeshCommonGimicks\QadeshCommonTeleporter\mat\MS_ScreenTexture.shader" />
     <None Include="Assets\00_common\noribenQuestWaterShader\Shader\noribenQuestWater.shader" />
     <None Include="Assets\03_particle\candle_flames\candleFlame_loopPlanes\candleFlames_materials\billboard_fixY.shader" />
