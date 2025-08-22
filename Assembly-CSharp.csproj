@@ -115,6 +115,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\01_mesh\icepail\oy_GlassSphere.shader" />
+    <None Include="Assets\02_system\colorilab\QadeshCommonGimicks\QadeshCommonTeleporter\mat\MS_ScreenTexture.shader" />
     <None Include="Assets\00_common\noribenQuestWaterShader\Shader\noribenQuestWater.shader" />
     <None Include="Assets\03_particle\candle_flames\candleFlame_loopPlanes\candleFlames_materials\billboard_fixY.shader" />
     <None Include="Assets\Samples\CyanTrigger\4.4.5\ExamplesAndPrefabs\Shaders\UnlitDoubleSidedOverlay.shader" />
@@ -1092,12 +1093,12 @@
       <HintPath>Library\ScriptAssemblies\Unity.Postprocessing.Runtime.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Unity.AI.Navigation">
-      <HintPath>Library\ScriptAssemblies\Unity.AI.Navigation.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
     <Reference Include="Unity.Burst.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.Burst.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.AI.Navigation">
+      <HintPath>Library\ScriptAssemblies\Unity.AI.Navigation.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.Rider.Editor">

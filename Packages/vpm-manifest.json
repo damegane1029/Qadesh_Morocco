@@ -12,14 +12,8 @@
     "dev.onevr.vrworldtoolkit": {
       "version": "3.2.1"
     },
-    "jp.lilxyzw.liltoon": {
-      "version": "2.1.4"
-    },
     "red.sim.lightvolumes": {
       "version": "2.0.0"
-    },
-    "jp.lilxyzw.editortoolbox": {
-      "version": "1.9.0"
     },
     "com.cyan.cyantrigger": {
       "version": "4.4.5"
@@ -29,6 +23,9 @@
     },
     "com.tp.jp.light-probe-generator": {
       "version": "1.0.3"
+    },
+    "jp.lilxyzw.liltoon": {
+      "version": "2.1.10"
     }
   },
   "locked": {
@@ -50,16 +47,8 @@
       "version": "3.2.1",
       "dependencies": {}
     },
-    "jp.lilxyzw.liltoon": {
-      "version": "2.1.4",
-      "dependencies": {}
-    },
     "red.sim.lightvolumes": {
       "version": "2.0.0",
-      "dependencies": {}
-    },
-    "jp.lilxyzw.editortoolbox": {
-      "version": "1.9.0",
       "dependencies": {}
     },
     "com.cyan.cyantrigger": {
@@ -76,6 +65,10 @@
     },
     "com.tp.jp.light-probe-generator": {
       "version": "1.0.3",
+      "dependencies": {}
+    },
+    "jp.lilxyzw.liltoon": {
+      "version": "2.1.10",
       "dependencies": {}
     }
   }
