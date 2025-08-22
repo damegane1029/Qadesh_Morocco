@@ -26,6 +26,9 @@
     },
     "com.mimylab.fukuroudon": {
       "version": "3.8.1"
+    },
+    "com.tp.jp.light-probe-generator": {
+      "version": "1.0.3"
     }
   },
   "locked": {
@@ -70,6 +73,10 @@
       "dependencies": {
         "com.vrchat.worlds": "^3.8.2"
       }
+    },
+    "com.tp.jp.light-probe-generator": {
+      "version": "1.0.3",
+      "dependencies": {}
     }
   }
 }

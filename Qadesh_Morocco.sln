@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRC.ClientSim.Editor", "VRC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRC.SDK3", "VRC.SDK3.csproj", "{3A381D1C-A219-8A53-D654-6183675EE2AF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "com.tp.jp.light-probe-generator", "com.tp.jp.light-probe-generator.csproj", "{A22A18D2-1EDC-7136-0ADA-FA72D8295FFD}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{1AD99310-979D-6EAC-A1FC-6F6EC865325B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRC.SDK3.Editor", "VRC.SDK3.Editor.csproj", "{7DDACA62-320A-0BF4-522B-1DFF33E13878}"
@@ -74,6 +76,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UdonSharp.Lib", "UdonSharp.Lib.csproj", "{147D544E-00B1-E3FF-5911-5CF0A566A9B6}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRC.SDKBase.Editor.BuildPipeline", "VRC.SDKBase.Editor.BuildPipeline.csproj", "{23BC9093-D347-DA48-8694-99C92BDE4ABC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "com.tp.jp.light-probe-generator.Editor", "com.tp.jp.light-probe-generator.Editor.csproj", "{F32E8F1F-02F4-8C6D-6E26-A98214EEFAAB}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniTask.Addressables", "UniTask.Addressables.csproj", "{160379D8-0F96-C192-19BD-6AD40496DEC5}"
 EndProject
@@ -147,6 +151,10 @@ Global
 		{3A381D1C-A219-8A53-D654-6183675EE2AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A381D1C-A219-8A53-D654-6183675EE2AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A381D1C-A219-8A53-D654-6183675EE2AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A22A18D2-1EDC-7136-0ADA-FA72D8295FFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A22A18D2-1EDC-7136-0ADA-FA72D8295FFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A22A18D2-1EDC-7136-0ADA-FA72D8295FFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A22A18D2-1EDC-7136-0ADA-FA72D8295FFD}.Release|Any CPU.Build.0 = Release|Any CPU
 		{1AD99310-979D-6EAC-A1FC-6F6EC865325B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{1AD99310-979D-6EAC-A1FC-6F6EC865325B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1AD99310-979D-6EAC-A1FC-6F6EC865325B}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -235,6 +243,10 @@ Global
 		{23BC9093-D347-DA48-8694-99C92BDE4ABC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{23BC9093-D347-DA48-8694-99C92BDE4ABC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{23BC9093-D347-DA48-8694-99C92BDE4ABC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F32E8F1F-02F4-8C6D-6E26-A98214EEFAAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F32E8F1F-02F4-8C6D-6E26-A98214EEFAAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F32E8F1F-02F4-8C6D-6E26-A98214EEFAAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F32E8F1F-02F4-8C6D-6E26-A98214EEFAAB}.Release|Any CPU.Build.0 = Release|Any CPU
 		{160379D8-0F96-C192-19BD-6AD40496DEC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{160379D8-0F96-C192-19BD-6AD40496DEC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{160379D8-0F96-C192-19BD-6AD40496DEC5}.Release|Any CPU.ActiveCfg = Release|Any CPU

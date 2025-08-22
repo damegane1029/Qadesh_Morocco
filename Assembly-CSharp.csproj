@@ -1250,6 +1250,10 @@
       <Project>{2A20BF56-816F-630D-C8E5-2E266E95012F}</Project>
       <Name>red.sim.LightVolumesEditor</Name>
     </ProjectReference>
+    <ProjectReference Include="com.tp.jp.light-probe-generator.csproj">
+      <Project>{A22A18D2-1EDC-7136-0ADA-FA72D8295FFD}</Project>
+      <Name>com.tp.jp.light-probe-generator</Name>
+    </ProjectReference>
     <ProjectReference Include="VRC.SDKBase.csproj">
       <Project>{04FA95C1-57B0-E377-3BA9-81B23F2423DE}</Project>
       <Name>VRC.SDKBase</Name>
@@ -1281,6 +1285,10 @@
     <ProjectReference Include="VRC.SDK3.Editor.csproj">
       <Project>{7DDACA62-320A-0BF4-522B-1DFF33E13878}</Project>
       <Name>VRC.SDK3.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="com.tp.jp.light-probe-generator.Editor.csproj">
+      <Project>{F32E8F1F-02F4-8C6D-6E26-A98214EEFAAB}</Project>
+      <Name>com.tp.jp.light-probe-generator.Editor</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
